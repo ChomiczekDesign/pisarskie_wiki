@@ -13,7 +13,7 @@ Przy porządkowaniu notatek, formatowaniu wyciągniętych informacji oraz techni
 
 ## Mapa Wiki
 
-- **[[Proces pisania]]** – plan, draft i redakcja
+- **[[Proces pisania]]** – od wyboru sposobu planowania, przez kończenie pierwszego draftu, po diagnozę i redakcję gotowego materiału.
   - **[[Planowanie]]**
     - [[Jak wybrać metodę planowania]]
     - [[Metoda Snowflake]]
@@ -28,7 +28,7 @@ Przy porządkowaniu notatek, formatowaniu wyciągniętych informacji oraz techni
     - [[Redakcja jako osobne przebiegi]]
     - [[Reverse Snowflake]]
 
-- **[[Projektowanie historii]]** – fundamenty, postacie i struktura
+- **[[Projektowanie historii]]** – fundamenty opowieści, postacie i relacje, temat oraz struktura fabuły.
   - **[[Fundamenty historii]]**
     - [[Obietnica gatunkowa i oryginalność]]
     - [[Pomysł, premise i zasada organizująca]]
@@ -41,7 +41,7 @@ Przy porządkowaniu notatek, formatowaniu wyciągniętych informacji oraz techni
     - [[Przyczynowość, konflikt i koszt]]
     - [[Otwarcie i zakończenie]]
 
-- **[[Pisanie scen]]** – konstrukcja, perspektywa i język
+- **[[Pisanie scen]]** – konstrukcja sceny, perspektywa, informacja, dialog, opis i atmosfera.
   - **[[Konstrukcja sceny]]**
     - [[Cel sceny, zmiana i konflikt]]
     - [[Blocking i czytelność działania]]
@@ -59,7 +59,7 @@ Przy porządkowaniu notatek, formatowaniu wyciągniętych informacji oraz techni
     - [[Opis miejsca i dobór szczegółu]]
     - [[Atmosfera, przestrzeń i orientacja]]
 
-- **[[Worldbuilding]]** – świat, miejsca i instytucje
+- **[[Worldbuilding]]** – zakres budowania świata, miejsca i podróż, religia oraz polityka.
   - **[[Fundamenty świata]]**
     - [[Zakres i metoda worldbuildingu]]
     - [[Historia, magia i żywy świat]]
@@ -71,7 +71,7 @@ Przy porządkowaniu notatek, formatowaniu wyciągniętych informacji oraz techni
     - [[Bogowie, religia i relacje]]
     - [[Polityka, władza i frakcje]]
 
-- **[[Styl i redakcja]]** – rytm, precyzja i polszczyzna
+- **[[Styl i redakcja]]** – rytm, precyzja, powtórzenia i wybrane zagadnienia polszczyzny.
   - **[[Styl]]**
     - [[Rytm, składnia i akcent]]
     - [[Precyzja i dobór słów]]
