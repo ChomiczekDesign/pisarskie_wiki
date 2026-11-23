@@ -24,3 +24,15 @@
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.18em;
 }
+
+/* Zwarta mapa strony głównej: opisy tylko na pierwszym poziomie. */
+.content #mapa-wiki + ul > li {
+  margin-bottom: 0.8rem;
+}
+
+.content #mapa-wiki + ul ul,
+.content #mapa-wiki + ul ul li {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
