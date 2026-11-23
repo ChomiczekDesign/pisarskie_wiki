@@ -1,0 +1,26 @@
+/* Uzupełnienia stylu Kiln dla czytelności artykułów. */
+.content ol {
+  list-style-type: decimal !important;
+}
+
+.content ol,
+.content ul {
+  list-style-position: outside !important;
+  padding-left: 2rem !important;
+}
+
+.content li {
+  padding-left: 0.2rem;
+  margin-bottom: 0.35rem;
+}
+
+.content ol li::marker,
+.content ul li::marker {
+  color: var(--accent-color);
+  font-weight: 700;
+}
+
+.content u {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+}

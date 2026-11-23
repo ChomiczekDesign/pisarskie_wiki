@@ -41,6 +41,10 @@ jobs:
       - name: Build site
         run: ./kiln generate
 
+      - name: Apply wiki readability styles
+        shell: bash
+        run: cat ./assets/custom.css >> ./public/shared.css
+
       - name: Verify generated site
         shell: bash
         run: |
@@ -71,4 +75,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-

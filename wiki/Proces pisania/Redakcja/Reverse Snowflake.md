@@ -7,7 +7,7 @@ description: Rekonstrukcja niejasnego draftu od listy scen do rdzenia historii.
 
 [[Proces pisania|Proces pisania]] → [[Redakcja|Redakcja]] → **Reverse Snowflake**
 
-Reverse Snowflake służy do draftu, którego konstrukcja jest trudna do odczytania. Zamiast od razu wymyślać lepszą wersję historii, najpierw odtwarza się to, co faktycznie znalazło się na stronie – od pojedynczych scen do jednozdaniowego rdzenia. Dopiero potem można ponownie rozwinąć projekt od ogółu do szczegółu. [\[1\]](https://www.advancedfictionwriting.com/blog/2018/12/20/revising-your-novel/)
+*Reverse Snowflake* służy do draftu, **którego konstrukcja jest trudna do odczytania**. Zamiast od razu wymyślać lepszą wersję historii, najpierw odtwarza się to, co faktycznie znalazło się na stronie – od pojedynczych scen do jednozdaniowego rdzenia. Dopiero potem można ponownie rozwinąć projekt od ogółu do szczegółu. [\[1\]](https://www.advancedfictionwriting.com/blog/2018/12/20/revising-your-novel/)
 
 Metoda odwołuje się do pierwszych dziewięciu kroków [[Metoda Snowflake|Snowflake]], ale przechodzi przez nie w przeciwnym kierunku.
 
@@ -22,11 +22,11 @@ Metoda odwołuje się do pierwszych dziewięciu kroków [[Metoda Snowflake|Snowf
 7. **Jeden akapit** – sytuacja wyjściowa, główne etapy rozwoju i zakończenie.
 8. **Jedno zdanie** – rdzeń historii, który może również działać jako krótki pitch.
 
-To nie jest jeszcze plan poprawek. Na tym etapie celem jest uczciwe opisanie istniejącej książki, łącznie z jej niespójnościami.
+<u>To nie jest jeszcze plan poprawek.</u> Na tym etapie celem jest uczciwe opisanie istniejącej książki, łącznie z jej niespójnościami.
 
 ## Ponowne projektowanie
 
-Po rekonstrukcji przejdź przez Snowflake ponownie, tym razem od jednego zdania do listy scen. Na każdym poziomie pytaj:
+Po rekonstrukcji **przejdź przez Snowflake ponownie, tym razem od jednego zdania do listy scen**. Na każdym poziomie pytaj:
 
 - co trzeba dodać,
 - co można usunąć,
@@ -37,9 +37,9 @@ Kiedy nowa lista scen jest gotowa, wdrażaj ją od początku do końca: napisz n
 
 ## Kiedy używać
 
-Ingermanson proponuje zwykłe przejście przez Snowflake, gdy struktura jest w miarę czytelna, a postacie spójne. Wersję odwróconą przeznacza dla materiału znacznie bardziej nieuporządkowanego.
+Ingermanson proponuje zwykłe przejście przez Snowflake, gdy **struktura jest w miarę czytelna, a postacie spójne**. Wersję odwróconą przeznacza dla materiału *znacznie bardziej nieuporządkowanego*.
 
-Warto przy tym zachować ostrożność wobec zakresu jego doświadczenia: autor stosował zwykły Snowflake do redakcji powieści, natomiast Reverse Snowflake przedstawia jako propozycję opartą na podobnej pracy z obszernymi notatkami historycznymi, nie jako metodę sprawdzoną przez niego przy redagowaniu własnej powieści. [\[1\]](https://www.advancedfictionwriting.com/blog/2018/12/20/revising-your-novel/)
+**Warto przy tym zachować ostrożność wobec zakresu jego doświadczenia**: autor stosował zwykły Snowflake do redakcji powieści, natomiast *Reverse Snowflake* przedstawia jako propozycję opartą na podobnej pracy z obszernymi notatkami historycznymi, nie jako metodę sprawdzoną przez niego przy redagowaniu własnej powieści. [\[1\]](https://www.advancedfictionwriting.com/blog/2018/12/20/revising-your-novel/)
 
 ## Powiązane artykuły
 

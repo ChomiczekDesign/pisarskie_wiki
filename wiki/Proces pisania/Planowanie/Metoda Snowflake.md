@@ -7,7 +7,7 @@ description: Rozwijanie projektu powieści od jednego zdania do listy scen.
 
 [[Proces pisania|Proces pisania]] → [[Planowanie|Planowanie]] → **Metoda Snowflake**
 
-Metoda Snowflake rozwija historię od ogółu do szczegółu, naprzemiennie pracując nad fabułą i postaciami. Każdy etap wyrasta z poprzedniego, ale wcześniejsze ustalenia można zmieniać, gdy kolejne kroki ujawnią problem lub lepsze rozwiązanie. Plan pozostaje żywym dokumentem. [\[1\]](https://www.advancedfictionwriting.com/articles/snowflake-method/)
+Metoda Snowflake rozwija historię **od ogółu do szczegółu**, naprzemiennie pracując nad fabułą i postaciami. Każdy etap wyrasta z poprzedniego, ale wcześniejsze ustalenia można zmieniać, gdy kolejne kroki ujawnią problem lub lepsze rozwiązanie. *Plan pozostaje żywym dokumentem.* [\[1\]](https://www.advancedfictionwriting.com/articles/snowflake-method/)
 
 ## Dziesięć kroków
 
@@ -24,11 +24,11 @@ Metoda Snowflake rozwija historię od ogółu do szczegółu, naprzemiennie prac
 
 ## Co właściwie daje ta metoda
 
-Snowflake pozwala oglądać tę samą historię w kilku skalach. Jedno zdanie sprawdza jej rdzeń, akapit – główny przebieg, perspektywy postaci – ich motywacje, a lista scen – praktyczną kolejność zdarzeń. Jeśli wersje nie pasują do siebie, problem można znaleźć przed napisaniem dziesiątek tysięcy słów.
+Snowflake pozwala **oglądać tę samą historię w kilku skalach**. *Jedno zdanie* sprawdza jej rdzeń, *akapit* – główny przebieg, *perspektywy postaci* – ich motywacje, a *lista scen* – praktyczną kolejność zdarzeń. Jeśli wersje nie pasują do siebie, problem można znaleźć przed napisaniem dziesiątek tysięcy słów.
 
-Synopsis projektowy nie jest opisem na okładkę. Powinien zawierać zakończenie, ponieważ służy autorowi do sprawdzenia konstrukcji, a nie czytelnikowi do podjęcia decyzji o zakupie.
+<u>Synopsis projektowy nie jest opisem na okładkę.</u> Powinien zawierać zakończenie, ponieważ służy autorowi do sprawdzenia konstrukcji, a nie czytelnikowi do podjęcia decyzji o zakupie.
 
-Nie trzeba też kończyć każdego kroku na perfekcyjnym poziomie. Gdy dalsza praca ujawni lepszy cel postaci albo nowe zakończenie, należy wrócić i zaktualizować wcześniejsze dokumenty. Jeśli natomiast szczegółowy szkic scen odbiera energię do pisania, można go pominąć.
+**Nie trzeba kończyć każdego kroku na perfekcyjnym poziomie.** Gdy dalsza praca ujawni lepszy cel postaci albo nowe zakończenie, należy wrócić i zaktualizować wcześniejsze dokumenty. Jeśli natomiast szczegółowy szkic scen odbiera energię do pisania, można go pominąć.
 
 Metodę można wykorzystać również po napisaniu książki. Gdy struktura draftu jest trudna do odczytania, jej odwrócona wersja pomaga najpierw zrekonstruować to, co faktycznie znalazło się w tekście. Zobacz [[Reverse Snowflake|Reverse Snowflake]].
 

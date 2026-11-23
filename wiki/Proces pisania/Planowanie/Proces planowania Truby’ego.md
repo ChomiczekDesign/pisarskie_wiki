@@ -7,13 +7,13 @@ description: Projektowanie historii jako systemu połączonych elementów.
 
 [[Proces pisania|Proces pisania]] → [[Planowanie|Planowanie]] → **Proces planowania Truby’ego**
 
-John Truby proponuje budowanie historii od środka na zewnątrz. Punktem wyjścia nie jest mechaniczne wypełnianie struktury, lecz znalezienie tego, co w pomyśle osobiste i oryginalne, a następnie rozwijanie wszystkich części w relacji do siebie. [\[1\]](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
+John Truby proponuje budowanie historii **od środka na zewnątrz**. Punktem wyjścia nie jest mechaniczne wypełnianie struktury, lecz znalezienie tego, co w pomyśle *osobiste i oryginalne*, a następnie rozwijanie wszystkich części w relacji do siebie. [\[1\]](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
 
 ## Historia jako organizm
 
-W tym ujęciu fabuła, postacie, temat, świat, symbole, sceny i dialog nie są osobnymi dodatkami. Każdy z tych elementów pomaga określić pozostałe. Świat może wyrażać stan bohatera, przeciwnik może ujawniać jego słabość, a przebieg fabuły powinien wynikać z konkretnych postaci zamiast istnieć niezależnie od nich.
+W tym ujęciu **fabuła, postacie, temat, świat, symbole, sceny i dialog nie są osobnymi dodatkami**. Każdy z tych elementów pomaga określić pozostałe. Świat może wyrażać stan bohatera, przeciwnik może ujawniać jego słabość, a przebieg fabuły powinien wynikać z konkretnych postaci zamiast istnieć niezależnie od nich.
 
-Podstawowy ruch historii opiera się na pragnieniu. Bohater czegoś chce, podejmuje działania, zdobywa nowe informacje i na ich podstawie zmienia kierunek. Przeszkody zmuszają go do walki, a walka prowadzi do przemiany albo pokazuje, dlaczego przemiana nie nastąpiła.
+<u>Podstawowy ruch historii opiera się na pragnieniu.</u> Bohater czegoś chce, podejmuje działania, zdobywa nowe informacje i na ich podstawie zmienia kierunek. Przeszkody zmuszają go do walki, a walka prowadzi do przemiany albo pokazuje, dlaczego przemiana nie nastąpiła.
 
 ## Kolejność pracy
 
@@ -29,13 +29,13 @@ Truby przedstawia proces w następującej kolejności:
 8. **Scene weave** – lista wszystkich scen i splatających się wątków.
 9. **Scene construction i dialogue** – pełne pisanie scen oraz wielowarstwowych dialogów.
 
-To kolejność zależności, nie zakaz wracania do wcześniejszych etapów. Odkrycie dotyczące przeciwnika może zmienić premise, a rzeczywista akcja napisanej sceny może wymagać poprawienia wcześniejszej listy.
+To **kolejność zależności, nie zakaz wracania do wcześniejszych etapów**. Odkrycie dotyczące przeciwnika może zmienić *premise*, a rzeczywista akcja napisanej sceny może wymagać poprawienia wcześniejszej listy.
 
 ## Kiedy ten proces jest przydatny
 
-Podejście Truby’ego pomaga przede wszystkim wtedy, gdy historia wydaje się złożona z oddzielnych pomysłów: bohater nie wpływa na świat, temat istnieje jedynie w deklaracjach, a wydarzenia układają się według pytania „co stanie się dalej?”, lecz nie budują wspólnego kierunku.
+Podejście Truby’ego pomaga przede wszystkim wtedy, gdy **historia wydaje się złożona z oddzielnych pomysłów**: bohater nie wpływa na świat, temat istnieje jedynie w deklaracjach, a wydarzenia układają się według pytania „co stanie się dalej?”, lecz nie budują wspólnego kierunku.
 
-Nie trzeba jednak przechodzić całej metody, aby skorzystać z jej perspektywy. Samo pytanie **„jak ta decyzja zmienia pozostałe elementy historii?”** jest dobrym testem każdej większej poprawki.
+*Nie trzeba przechodzić całej metody, aby skorzystać z jej perspektywy.* Samo pytanie **„jak ta decyzja zmienia pozostałe elementy historii?”** jest dobrym testem każdej większej poprawki.
 
 Kiedy duże elementy są już ustalone, następnym krokiem może być [[Lista scen i przeplatanie wątków|lista scen i przeplatanie wątków]].
 

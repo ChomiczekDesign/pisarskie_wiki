@@ -7,11 +7,11 @@ description: Emocjonalny szkielet historii oparty na wyborach i ich konsekwencja
 
 [[Proces pisania|Proces pisania]] → [[Planowanie|Planowanie]] → **Pięć punktów przemiany i model 15 scen**
 
-Model piętnastu scen zaczyna się od emocjonalnej obietnicy historii, a nie od liczby rozdziałów czy gotowego zestawu wydarzeń. Piętnaście wynika tu z pięciu punktów przemiany, z których każdy zostaje rozpisany jako przygotowanie, wybór i konsekwencje. To konkretny model autora materiału, nie uniwersalna długość powieści. [\[1\]](https://www.youtube.com/watch?v=ubfuwItruAc)
+Model piętnastu scen zaczyna się od **emocjonalnej obietnicy historii**, a nie od liczby rozdziałów czy gotowego zestawu wydarzeń. Piętnaście wynika tu z pięciu punktów przemiany, z których każdy zostaje rozpisany jako *przygotowanie, wybór i konsekwencje*. To konkretny model autora materiału, nie uniwersalna długość powieści. [\[1\]](https://www.youtube.com/watch?v=ubfuwItruAc)
 
 ## Zacznij od Story Promise
 
-Story Promise określa przemianę, którą historia ma dostarczyć. „Chłopak zostaje królem” mówi, co się wydarzy. „Chłopak uczy się, że rządzić znaczy chronić nawet tych, którzy go zdradzili” wskazuje także emocjonalne znaczenie wydarzeń.
+*Story Promise* określa **przemianę, którą historia ma dostarczyć**. „Chłopak zostaje królem” mówi, co się wydarzy. „Chłopak uczy się, że rządzić znaczy chronić nawet tych, którzy go zdradzili” wskazuje także emocjonalne znaczenie wydarzeń.
 
 Przydatna obietnica łączy trzy rzeczy:
 
@@ -19,7 +19,7 @@ Przydatna obietnica łączy trzy rzeczy:
 - dlaczego ma to znaczenie dla bohatera,
 - jaką prawdę o człowieku odsłania ta przemiana.
 
-Może potem działać jako filtr: czy planowana scena pomaga zbudować, złamać albo przekształcić tę podróż?
+<u>Może potem działać jako filtr: czy planowana scena pomaga zbudować, złamać albo przekształcić tę podróż?</u>
 
 ## Trójkąt konfliktu
 
@@ -33,7 +33,7 @@ Scena może mieć jeden konflikt dominujący, ale konsekwencje często dotykają
 
 ## Pięć emotional waypoints
 
-Każdy waypoint jest wyborem, po którym postać nie może po prostu wrócić do wcześniejszego stanu. Dobry wybór:
+Każdy *waypoint* jest **wyborem, po którym postać nie może po prostu wrócić do wcześniejszego stanu**. Dobry wybór:
 
 - ma osobistą stawkę,
 - stawia naprzeciw siebie konkurujące wartości,
@@ -49,7 +49,7 @@ Każdy waypoint zostaje rozwinięty w trzy sceny:
 2. **Choice** – bohater aktywnie wybiera pomiędzy trudnymi możliwościami.
 3. **Aftermath** – historia pokazuje praktyczne i emocjonalne skutki oraz przygotowuje następną decyzję.
 
-Pięć takich zestawów daje piętnaście scen tworzących emocjonalny szkielet. Nie oznacza to, że gotowa powieść ma mieć wyłącznie piętnaście scen. Dodatkowe sceny mogą rozwijać relacje, podwątki, temat i skutki wyborów albo przygotowywać kolejny waypoint. Powinny jednak mieć rozpoznawalną funkcję.
+Pięć takich zestawów daje piętnaście scen tworzących emocjonalny szkielet. **Nie oznacza to, że gotowa powieść ma mieć wyłącznie piętnaście scen.** Dodatkowe sceny mogą rozwijać relacje, podwątki, temat i skutki wyborów albo przygotowywać kolejny *waypoint*. Powinny jednak mieć rozpoznawalną funkcję.
 
 Dla autora odkrywającego historię podczas pisania taki szkielet może być wystarczającym planem: wyznacza punkty przemiany, lecz pozostawia przestrzeń na odkrycie drogi pomiędzy nimi.
 
