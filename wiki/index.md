@@ -13,8 +13,70 @@ Przy porządkowaniu notatek, formatowaniu wyciągniętych informacji oraz techni
 
 ## Mapa Wiki
 
-- [[Proces pisania]] – od wyboru sposobu planowania, przez kończenie pierwszego draftu, po diagnozę i redakcję gotowego materiału.
-- [[Projektowanie historii]] – fundamenty opowieści, postacie i relacje, temat oraz struktura fabuły.
-- [[Pisanie scen]] – konstrukcja sceny, perspektywa, informacja, dialog, opis i atmosfera.
-- [[Worldbuilding]] – zakres budowania świata, miejsca i podróż, religia oraz polityka.
-- [[Styl i redakcja]] – rytm, precyzja, powtórzenia i wybrane zagadnienia polszczyzny.
+- **[[Proces pisania]]** – plan, draft i redakcja
+  - **[[Planowanie]]**
+    - [[Jak wybrać metodę planowania]]
+    - [[Metoda Snowflake]]
+    - [[Proces planowania Truby’ego]]
+    - [[Pięć punktów przemiany i model 15 scen]]
+    - [[Lista scen i przeplatanie wątków]]
+  - **[[Pierwszy draft]]**
+    - [[Momentum, regularność i placeholdery]]
+    - [[Research, który nie zatrzymuje pisania]]
+  - **[[Redakcja]]**
+    - [[Diagnoza i plan zmian]]
+    - [[Redakcja jako osobne przebiegi]]
+    - [[Reverse Snowflake]]
+
+- **[[Projektowanie historii]]** – fundamenty, postacie i struktura
+  - **[[Fundamenty historii]]**
+    - [[Obietnica gatunkowa i oryginalność]]
+    - [[Pomysł, premise i zasada organizująca]]
+  - **[[Postacie i relacje]]**
+    - [[Cel, motywacja i sprawczość]]
+    - [[Przeszłość, wada i przemiana]]
+    - [[Obsada, relacje i system opozycji]]
+  - **[[Temat i struktura]]**
+    - [[Temat, argument moralny i symbole]]
+    - [[Przyczynowość, konflikt i koszt]]
+    - [[Otwarcie i zakończenie]]
+
+- **[[Pisanie scen]]** – konstrukcja, perspektywa i język
+  - **[[Konstrukcja sceny]]**
+    - [[Cel sceny, zmiana i konflikt]]
+    - [[Blocking i czytelność działania]]
+    - [[Napięcie, odpoczynek i tempo]]
+  - **[[Perspektywa i informacja]]**
+    - [[Dystans narracyjny i punkt widzenia]]
+    - [[Mowa pozornie zależna i doświadczenie postaci]]
+    - [[Pokazywanie, opowiadanie i ekspozycja]]
+    - [[Ciekawość, zapowiedzi i zwroty]]
+  - **[[Dialog]]**
+    - [[Dialog jako działanie]]
+    - [[Oznaczanie mówcy i sceny wieloosobowe]]
+    - [[Głos, subtekst i negocjacja]]
+  - **[[Opis i atmosfera]]**
+    - [[Opis miejsca i dobór szczegółu]]
+    - [[Atmosfera, przestrzeń i orientacja]]
+
+- **[[Worldbuilding]]** – świat, miejsca i instytucje
+  - **[[Fundamenty świata]]**
+    - [[Zakres i metoda worldbuildingu]]
+    - [[Historia, magia i żywy świat]]
+    - [[Arena, technologia i rytm czasu]]
+  - **[[Miejsca i podróż]]**
+    - [[Miasta, handel i geografia]]
+    - [[Podróż, marsz i logistyka]]
+  - **[[Religia i polityka]]**
+    - [[Bogowie, religia i relacje]]
+    - [[Polityka, władza i frakcje]]
+
+- **[[Styl i redakcja]]** – rytm, precyzja i polszczyzna
+  - **[[Styl]]**
+    - [[Rytm, składnia i akcent]]
+    - [[Precyzja i dobór słów]]
+    - [[Redundancja i powtórzenia]]
+  - **[[Polszczyzna]]**
+    - [[Zapis dialogu]]
+    - [[Szyk zdania, zaimki i odniesienia]]
+
