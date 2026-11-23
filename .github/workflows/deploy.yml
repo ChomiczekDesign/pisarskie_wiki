@@ -26,11 +26,12 @@ jobs:
         run: |
           curl --fail --location --silent --show-error \
             https://github.com/otaleghani/kiln/releases/download/v0.9.5/kiln_linux_amd64 \
-            --output kiln
+            --output kiln_linux_amd64
           curl --fail --location --silent --show-error \
             https://github.com/otaleghani/kiln/releases/download/v0.9.5/checksums.txt \
             --output checksums.txt
           grep ' kiln_linux_amd64$' checksums.txt | sha256sum --check --strict
+          mv kiln_linux_amd64 kiln
           chmod +x kiln
           ./kiln version
 
