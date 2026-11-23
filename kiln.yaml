@@ -1,0 +1,14 @@
+name: "Pisarskie wiki"
+url: "https://chomiczekdesign.github.io/pisarskie_wiki"
+input: "./wiki"
+output: "./public"
+theme: "catppuccin"
+font: "inter"
+mode: "default"
+layout: "default"
+lang: "pl"
+accent-color: "blue"
+flat-urls: false
+disable-toc: false
+disable-local-graph: false
+disable-backlinks: false
