@@ -20,4 +20,4 @@ Publiczna wiki jest celowo oddzielona od prywatnego zbioru Writing Advice. Istni
 - Każdy artykuł zawiera mapę położenia, kontekstowe linki wewnętrzne i sekcję `Powiązane artykuły` przed źródłami.
 - W polskim tekście stosujemy półpauzę `–` zamiast długiej pauzy.
 
-Pierwszą kategorią pilotażową jest `Proces pisania`. Jej układ i poziom szczegółowości będą wzorem albo punktem wyjścia dla kolejnych części.
+Kategoria `Proces pisania` była pilotażem. Jej układ – krótsze artykuły, mapy na każdym poziomie, linki kontekstowe, wyróżnienia oraz jawne źródła – został zastosowany w pozostałych głównych kategoriach.

@@ -1,6 +1,6 @@
 ---
 title: Pisarskie wiki
-description: Publiczna baza wiedzy o pisaniu – obecnie w przygotowaniu.
+description: Publiczna, osobista baza wiedzy o pisaniu.
 ---
 
 # Czym jest ta wiki?
@@ -14,3 +14,7 @@ Przy porządkowaniu notatek, formatowaniu wyciągniętych informacji oraz techni
 ## Mapa Wiki
 
 - [[Proces pisania]] – od wyboru sposobu planowania, przez kończenie pierwszego draftu, po diagnozę i redakcję gotowego materiału.
+- [[Projektowanie historii]] – fundamenty opowieści, postacie i relacje, temat oraz struktura fabuły.
+- [[Pisanie scen]] – konstrukcja sceny, perspektywa, informacja, dialog, opis i atmosfera.
+- [[Worldbuilding]] – zakres budowania świata, miejsca i podróż, religia oraz polityka.
+- [[Styl i redakcja]] – rytm, precyzja, powtórzenia i wybrane zagadnienia polszczyzny.
