@@ -12,9 +12,3 @@ Zawartość wiki jest więc z założenia wybiórcza i osobista. Nie próbuje by
 Przy porządkowaniu notatek, formatowaniu wyciągniętych informacji oraz technicznej obsłudze wiki korzystałem z pomocy AI. Służyła mi ona jako narzędzie do opracowania materiału — wybór źródeł oraz decyzje o tym, co warto zachować i na co zwracać uwagę, należały do mnie.
 
 ## Mapa Wiki
-
-- [[O wiki|O projekcie i jego obecnym etapie]]
-- [[Jak dodawac tresci|Jak będą dodawane nowe treści]]
-
-Strona jest generowana z plików Markdown przez [Kiln](https://kiln.talesign.com/), a jej kod źródłowy znajduje się na [GitHubie](https://github.com/ChomiczekDesign/pisarskie_wiki).
-
