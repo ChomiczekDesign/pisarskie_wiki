@@ -3,16 +3,18 @@ title: Pisarskie wiki
 description: Publiczna baza wiedzy o pisaniu — obecnie w przygotowaniu.
 ---
 
-# Pisarskie wiki
+# Czym jest ta wiki?
 
-To będzie wspólna, publiczna baza wiedzy o pisaniu: uporządkowana, łatwa do przeszukiwania i wygodna do udostępniania osobom z pisarskiego Discorda.
+Ta wiki powstała na podstawie artykułów, wykładów i innych materiałów o pisaniu, które czytałem lub oglądałem. Nie znajdziesz tu jednak ich pełnych streszczeń. Zbierałem przede wszystkim te idee, przykłady i narzędzia, które zwróciły moją uwagę, pomogły mi coś zrozumieć albo okazały się przydatne w mojej własnej pracy.
 
-> [!info] Strona jest w przygotowaniu
-> Działa już jej szkielet techniczny. Właściwe poradniki pojawią się dopiero po uzgodnieniu zakresu, struktury i zasad redakcji. Prywatne notatki Writing-GM Advice nie zostały tu automatycznie skopiowane.
+Zawartość wiki jest więc z założenia wybiórcza i osobista. Nie próbuje być kompletnym podręcznikiem pisania ani obiektywnym omówieniem każdego źródła. To raczej destylacja wiedzy, którą sam z tych materiałów wyniosłem i do której chcę móc łatwo wrócić.
 
-## Na początek
+Przy porządkowaniu notatek, formatowaniu wyciągniętych informacji oraz technicznej obsłudze wiki korzystałem z pomocy AI. Służyła mi ona jako narzędzie do opracowania materiału — wybór źródeł oraz decyzje o tym, co warto zachować i na co zwracać uwagę, należały do mnie.
+
+## Mapa Wiki
 
 - [[O wiki|O projekcie i jego obecnym etapie]]
 - [[Jak dodawac tresci|Jak będą dodawane nowe treści]]
 
 Strona jest generowana z plików Markdown przez [Kiln](https://kiln.talesign.com/), a jej kod źródłowy znajduje się na [GitHubie](https://github.com/ChomiczekDesign/pisarskie_wiki).
+
