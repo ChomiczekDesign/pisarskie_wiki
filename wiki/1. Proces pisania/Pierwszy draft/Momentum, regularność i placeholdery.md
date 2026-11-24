@@ -1,50 +1,42 @@
 ---
-title: Momentum, regularność i placeholdery
-description: Utrzymywanie ruchu do przodu podczas pisania pierwszego draftu.
+title: "Momentum, regularność i placeholdery"
+description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy nad tekstem."
 ---
 
 # Momentum, regularność i placeholdery
 
 [[1. Proces pisania|Proces pisania]] → [[Pierwszy draft|Pierwszy draft]] → **Momentum, regularność i placeholdery**
 
-Podczas pierwszego draftu **głównym zadaniem jest przesuwanie historii do przodu, nie tworzenie gotowej prozy**. Draftowanie i redakcja wymagają innych sposobów myślenia, a ciągłe przełączanie się pomiędzy nimi może zatrzymać pracę. *Niezgrabne zdanie już istnieje i można je poprawić. Idealnego zdania na pustej stronie nie można.* [\[1\]](https://www.youtube.com/watch?v=SwSGpx_j4OI)
+### Momentum, regularność i placeholdery
 
-## Pozwól pierwszej wersji być roboczą
+- **We wczesnym drafcie tekst potrzebny autorowi do odkrycia historii może być wartościowym etapem pracy.** Rozpisanie tła, nadmiaru researchu czy celu sceny może pomóc uporządkować materiał w głowie i dopiero znaleźć właściwy kształt opowieści. To „rusztowanie”: późniejsze wycięcie fragmentu nie oznacza, że jego napisanie było błędem lub zmarnowanym wysiłkiem. Oddziel jego użyteczność podczas tworzenia od potrzeby zachowania go dla czytelnika. [1] Darwin rozróżnia też pisanie nadmiaru, żeby odkryć trafne słowa, od pozostawiania pełnej drogi zdarzeń, którą autor musiał sobie wyobrazić. W obu przypadkach o zachowaniu materiału rozstrzyga dopiero jego funkcja dla czytelnika. [2]
 
-Wczesny tekst często zawiera **rzeczy potrzebne autorowi, choć niekoniecznie czytelnikowi**: rozpisane tło, zbyt długą drogę do właściwej sceny, objaśnienie jej celu albo nadmiar szczegółów. Emma Darwin nazywa taki materiał *rusztowaniem*. Pomaga odkryć historię, a po spełnieniu swojej funkcji może zostać usunięty. [\[2\]](https://emmadarwin.substack.com/p/the-common-scaffold)
+- **Podczas draftowania twoim zadaniem jest posuwać historię do przodu, nie produkować gotową prozę.** [3]
+    - Nie edytuj każdego zdania od razu – draftowanie i redakcja wymagają innych trybów myślenia, a przełączanie się między nimi zabija rytm.
+    - Daj sobie pozwolenie na celowo brzydki pierwszy draft: niezgrabne zdanie istnieje i można je później poprawić; idealnego zdania na pustej stronie nie można.
+    - Naucz się rozpoznawać „głosy”, które zatrzymują pracę: perfekcjonizm, nadmierne planowanie, ciągłe odkrywanie nowych problemów. Nie każda wątpliwość wymaga natychmiastowego działania.
+    - **Przykład:** zamiast przez pół godziny poprawiać pięć linijek dialogu, zostaw `[popraw dialog]` i napisz kolejne dwie strony sceny.
 
-Napisanie nadmiaru nie jest automatycznie błędem. W redakcji trzeba dopiero rozstrzygnąć, która część drogi potrzebnej autorowi jest również potrzebna odbiorcy. [\[3\]](https://emmadarwin.substack.com/p/are-you-showing-too-much)
+- **Projektuj proces pracy tak, żeby następna sesja zaczynała się już z momentum.** [3]
+    - Kończ pisanie **w środku sceny, decyzji albo napięcia**, kiedy wiesz, co wydarzy się dalej – następnego dnia nie zaczynasz wtedy od zera.
+    - Jeśli trafisz na fragment, którego nie umiesz jeszcze napisać, użyj **TBD/placeholdera** i idź dalej zamiast pozwolić jednej scenie zatrzymać cały draft.
+    - Placeholder powinien mówić, co ma się wydarzyć i jaka jest funkcja fragmentu, żeby później łatwo było do niego wrócić.
+    - **Przykład:** `[TBD: pościg przez kanion; bohater traci konia i musi zaakceptować pomoc rywala]` – potem przeskocz do sceny po pościgu.
 
-## Używaj placeholderów
-
-Jeśli **pojedynczy fragment wymaga informacji, pomysłu albo umiejętności, których teraz brakuje**, zostaw oznaczenie i przejdź dalej. Dobry placeholder opisuje zarówno wydarzenie, jak i jego funkcję:
-
-> [TBD: pościg przez kanion; bohater traci konia i musi przyjąć pomoc rywala]
-
-<u>Taki zapis zachowuje ruch historii bez udawania, że problem został rozwiązany.</u> Placeholder powinien później trafić na listę rzeczy do uzupełnienia, by nie stał się niewidoczną dziurą w tekście.
-
-## Zostaw sobie wejście do następnej sesji
-
-Jeżeli to możliwe, **kończ pracę w chwili, gdy wiesz, co wydarzy się dalej** – w środku sceny, decyzji albo napięcia. Następna sesja zaczyna się wtedy od znanego ruchu, a nie od szukania nowego początku.
-
-Regularność pomaga utrzymać historię „ciepłą” w pamięci. Krótsze sesje odbywające się kilka razy w tygodniu mogą być skuteczniejsze niż jeden długi zryw po wielkiej przerwie, ponieważ mniej czasu potrzeba na ponowne wejście w głosy postaci i konflikty. Nie chodzi o idealną serię bez opuszczonego dnia, lecz o niedopuszczenie do długiej utraty kontaktu z projektem. [\[1\]](https://www.youtube.com/watch?v=SwSGpx_j4OI)
-
-## Rozpoznawaj głosy, które zatrzymują pracę
-
-Perfekcjonizm, nadmierne planowanie i ciągłe odkrywanie nowych problemów mogą brzmieć jak rozsądna troska o jakość. Nie każda wątpliwość wymaga jednak natychmiastowego działania. Można ją nazwać, zapisać i zdecydować, czy rzeczywiście blokuje następną scenę.
-
-Jeśli **problem wpływa na całą konstrukcję**, warto wrócić do planu. Jeśli *dotyczy jakości pojedynczego dialogu*, najczęściej wystarczy placeholder i dalsze pisanie. Po ukończeniu materiału przejdź do [[Diagnoza i plan zmian|diagnozy i planu zmian]].
+- **Buduj rytm pisania, nie czekaj na właściwy nastrój.** [3]
+    - Regularność utrzymuje historię „ciepłą” w głowie: pamiętasz głosy postaci, napięcia i kierunek scen.
+    - Nawet krótka sesja jest lepsza niż ciągłe czekanie na idealny dzień; jakość można poprawić później, najpierw potrzebujesz materiału.
+    - Nie chodzi o perfekcyjny streak – pojedyncze opuszczenie sesji niczego nie niszczy; problemem jest utrata kontaktu z historią przez dłuższy czas.
+    - **Przykład:** 20 minut cztery razy w tygodniu może być skuteczniejsze niż jedna pięciogodzinna sesja raz na trzy tygodnie, bo nie musisz za każdym razem na nowo „wchodzić” w powieść.
 
 ## Powiązane artykuły
 
-- [[Research, który nie zatrzymuje pisania|Research, który nie zatrzymuje pisania]]
-- [[Diagnoza i plan zmian|Diagnoza i plan zmian]]
-- [[Jak wybrać metodę planowania|Jak wybrać metodę planowania]]
+- [[Research, który nie zatrzymuje pisania]]
+- [[Pierwszy draft|Mapa podkategorii]]
 
 ## Źródła
 
-1. [Tale Tinkerer, „General Writing Tips”](https://www.youtube.com/watch?v=SwSGpx_j4OI)
-2. [Emma Darwin, „The Common Scaffold”](https://emmadarwin.substack.com/p/the-common-scaffold)
-3. [Emma Darwin, „Are You Showing Too Much?”](https://emmadarwin.substack.com/p/are-you-showing-too-much)
-
+1. [The Common Scaffold – Emma Darwin](https://emmadarwin.substack.com/p/the-common-scaffold)
+2. [Are You Showing Too Much? – Emma Darwin](https://emmadarwin.substack.com/p/are-you-showing-too-much)
+3. [General Writing Tips BY Tale Tinkerer](https://www.youtube.com/watch?v=SwSGpx_j4OI)
 

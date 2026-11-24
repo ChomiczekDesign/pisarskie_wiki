@@ -1,25 +1,25 @@
 ---
-title: Postacie i relacje
-description: Cele, przemiana, relacje i system opozycji.
+title: "Postacie i relacje"
+description: "Mapa artykułów w części „Postacie i relacje”."
 ---
 
 # Postacie i relacje
 
 [[2. Projektowanie historii|Projektowanie historii]] → **Postacie i relacje**
 
-Postać staje się interesująca nie przez liczbę cech w profilu, lecz przez **to, czego chce, jak działa pod presją i co jej wybory robią innym ludziom**. Relacje pozwalają zobaczyć różne strony tej samej osoby.
-
-<u>Biografia jest przydatna wtedy, gdy zmienia zachowanie postaci w teraźniejszej scenie.</u>
-
 ## Mapa podkategorii
 
-1. [[Cel, motywacja i sprawczość]] – kierunek działania i warstwy pragnienia.
-2. [[Przeszłość, wada i przemiana]] – to, co blokuje postać, i sposób sprawdzania zmiany.
-3. [[Obsada, relacje i system opozycji]] – postacie jako sieć nacisków, podobieństw i kontrastów.
-
-## Powiązane artykuły
-
-- [[Temat, argument moralny i symbole]]
-- [[Przyczynowość, konflikt i koszt]]
-- [[Dialog jako działanie]]
+- [[Cel, motywacja i sprawczość]]
+- [[Przeszłość, Ghost i wewnętrzne tarcie]]
+- [[Profil emocjonalny i sposób reagowania]]
+- [[Przemiana i bohater niezłomny]]
+- [[Sprzeczności, wartości i wiarygodne zaskoczenie]]
+- [[Obsada, relacje i funkcje postaci]]
+- [[Przeciwnik, ideologia i system opozycji]]
+- [[Wprowadzanie i wyróżnianie postaci]]
+- [[Charyzma i autorytet]]
+- [[Przywódca, Król i mentor]]
+- [[Kryzys, wsparcie i Third Man Factor]]
+- [[Śmierć postaci i plot armor]]
+- [[Imiona i kulturowy system nazw]]
 

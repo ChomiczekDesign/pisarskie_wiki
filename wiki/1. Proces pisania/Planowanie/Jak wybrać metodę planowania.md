@@ -1,45 +1,39 @@
 ---
-title: Jak wybrać metodę planowania
-description: Dobieranie sposobu planowania do projektu i problemu, który trzeba rozwiązać.
+title: "Jak wybrać metodę planowania"
+description: "Wspólny kierunek to rozwijanie projektu i sprawdzanie zależności między jego częściami. Poszczególne metody pozostają alternatywnymi narzędziami; ich kroków nie trzeba składać w je"
 ---
 
 # Jak wybrać metodę planowania
 
 [[1. Proces pisania|Proces pisania]] → [[Planowanie|Planowanie]] → **Jak wybrać metodę planowania**
 
-Nie istnieje jedna metoda, która pasuje do każdego autora i każdej historii. *Snowflake*, proces Truby’ego i model pięciu punktów przemiany patrzą na projekt z innych stron. Warto więc zacząć nie od pytania „która metoda jest najlepsza?”, tylko: **czego jeszcze nie rozumiem w tej historii?** Sam Ingermanson podkreśla, że właściwa metoda to ta, która działa dla konkretnego pisarza. [\[1\]](https://www.advancedfictionwriting.com/articles/snowflake-method/)
+Wspólny kierunek to rozwijanie projektu i sprawdzanie zależności między jego częściami. Poszczególne metody pozostają alternatywnymi narzędziami; ich kroków nie trzeba składać w jeden obowiązkowy formularz.
 
-## Wybierz problem, nie cały system
+### Wspólny fundament i roboczy charakter planu
 
-- Jeśli masz **ogólny pomysł, ale nie wiesz, jak przejść od niego do scen**, pomocna może być [[Metoda Snowflake|metoda Snowflake]]. Rozwija ona te same ustalenia od jednego zdania, przez synopsis i perspektywy postaci, aż do listy scen.
-- Jeśli **poszczególne części historii istnieją osobno i nie wpływają na siebie**, przydatny może być [[Proces planowania Truby’ego|proces Truby’ego]]. Traktuje postacie, fabułę, świat, temat i sceny jak połączone podsystemy jednej historii. [\[2\]](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
-- Jeśli **znasz wydarzenia, ale nie widzisz emocjonalnej przemiany bohatera**, sprawdź [[Pięć punktów przemiany i model 15 scen|model pięciu punktów przemiany]]. Jego rdzeniem są decyzje, po których postać nie może wrócić do wcześniejszego stanu. [\[3\]](https://www.youtube.com/watch?v=ubfuwItruAc)
-- Jeśli **historia jest już rozpisana, ale jej rytm lub wątki pozostają nieczytelne**, przejdź do [[Lista scen i przeplatanie wątków|listy scen i przeplatania wątków]].
+- **Story działa przez acting i learning:** postać dąży do czegoś, działa, zdobywa informacje, podejmuje decyzje i zmienia sposób działania. Walka o desire prowadzi do zmiany bohatera albo pokazuje, dlaczego ta zmiana nie zachodzi. [1]
 
-<u>Nie trzeba przyjmować całego systemu.</u> Można wykorzystać jedno narzędzie – na przykład *jednozdaniowy rdzeń*, *perspektywy głównych postaci* albo *arkusz scen* – jeśli odpowiada na aktualne pytanie.
+- **Elementy historii definiują się wzajemnie.** Character web, plot, moral argument, story world, symbol web, scene weave i dialogue mają tworzyć jeden organizm; pojedynczy element rozwijaj w relacji do pozostałych. [1]
 
-## Plan jest dokumentem roboczym
+- **Lista pozostaje robocza.** Napisanie sceny może pokazać, że jej faktyczna akcja jest inna niż zakładana; Truby zaleca wtedy zmianę scene weave. [2]
 
-Plan powinien zmieniać się razem z historią. Napisana scena może ujawnić inną zasadniczą akcję, niż zakładała lista. Nowa decyzja postaci może wymusić poprawki we wcześniejszych ustaleniach. Zarówno Truby, jak i Ingermanson traktują projekt jako materiał, który można aktualizować w trakcie pracy, a nie umowę zawartą przed rozpoczęciem draftu. [\[1\]](https://www.advancedfictionwriting.com/articles/snowflake-method/) [\[2\]](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
+- **Plan pozostaje roboczy.** Aktualizuj wcześniejsze etapy po odkryciach dotyczących postaci i podczas pisania. Nie dopracowuj każdego kroku do perfekcji. Metoda może też porządkować już napisany draft. [3]
 
-Dobrym testem planu jest pytanie: **czy pomaga mi podjąć następną decyzję?** Jeśli zaczyna jedynie mnożyć pola do wypełnienia, warto zmniejszyć jego szczegółowość albo zmienić narzędzie.
-
-## Ucz się funkcji, nie cudzej fabuły
-
-Strukturę można poznawać przez rozpisywanie historii, które już działają. Warto sprawdzić, co zmienia każda scena, gdzie rośnie napięcie i jak często sytuacja bohatera ulega istotnej zmianie. Celem nie jest kopiowanie wydarzeń, lecz zobaczenie funkcji i rytmu konstrukcji. [\[4\]](https://www.youtube.com/watch?v=SwSGpx_j4OI)
+- **Używaj struktury jako ramy i ucz się jej przez analizowanie historii, które już działają.** [4]
+    - Weź dobrą powieść i rozpisz ją rozdział po rozdziale: **co robi ta scena, co zmienia i gdzie jest napięcie?**
+    - Patrz na rozmieszczenie ważnych beatów, długość openingu, midpoint, zwroty i konsekwencje.
+    - Nie kopiuj fabuły – ucz się **funkcji i rytmu konstrukcji**, żeby mieć solidny szkielet dla własnych pomysłów.
+    - **Przykład:** jeśli widzisz, że w ulubionej książce co kilka rozdziałów zmienia się sytuacja bohatera, a u ciebie przez osiem rozdziałów nic fundamentalnie się nie zmienia, znalazłeś potencjalny problem z momentum.
 
 ## Powiązane artykuły
 
-- [[Metoda Snowflake|Metoda Snowflake]]
-- [[Proces planowania Truby’ego|Proces planowania Truby’ego]]
-- [[Pięć punktów przemiany i model 15 scen|Pięć punktów przemiany i model 15 scen]]
-- [[Lista scen i przeplatanie wątków|Lista scen i przeplatanie wątków]]
+- [[Proces planowania Truby’ego]]
+- [[Planowanie|Mapa podkategorii]]
 
 ## Źródła
 
-1. [Randy Ingermanson, „The Snowflake Method for Designing a Novel”](https://www.advancedfictionwriting.com/articles/snowflake-method/)
-2. [John Truby, „The Anatomy of Story”](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
-3. [Tale Tinkerer, „5 Scenes to Outline Your Novel”](https://www.youtube.com/watch?v=ubfuwItruAc)
-4. [Tale Tinkerer, „General Writing Tips”](https://www.youtube.com/watch?v=SwSGpx_j4OI)
-
+1. [The Anatomy Of Story - Organic Story and Writing Process](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
+2. [The Anatomy Of Story - Scene Weave](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
+3. [The Snowflake Method For Designing A Novel](https://www.advancedfictionwriting.com/articles/snowflake-method/)
+4. [General Writing Tips BY Tale Tinkerer](https://www.youtube.com/watch?v=SwSGpx_j4OI)
 

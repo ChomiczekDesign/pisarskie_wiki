@@ -1,43 +1,51 @@
 ---
-title: Podróż, marsz i logistyka
-description: Budowanie podróży przez decyzje, zależności grupy i konsekwencje drogi.
+title: "Podróż, marsz i logistyka"
+description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy nad tekstem."
 ---
 
 # Podróż, marsz i logistyka
 
-[[4. Worldbuilding|Worldbuilding]] → [[Miejsca i podróż]] → **Podróż, marsz i logistyka**
+[[4. Worldbuilding|Worldbuilding]] → [[Miejsca i podróż|Miejsca i podróż]] → **Podróż, marsz i logistyka**
 
-Podróż staje się sceną, gdy wymaga **wyboru trasy, tempa, zapasów, bezpieczeństwa albo relacji w grupie**. Jeśli droga nie zmienia niczego istotnego, może zostać skrócona.
+### Decyzje i zależności grupy w ruchu
 
-## Tempo wyznacza najsłabsze ogniwo
+- **Gdy marsz ma sprawdzić bohatera, pokaż wybory, które nadają mu ciężar.** [1]
+    - Jeśli przywódca prowadzi ludzi przez groźny teren, samo „dotarli zmęczeni, ale żywi” nie pokazuje jego kompetencji ani ceny dotarcia. Pokaż momenty, do których późniejsze roszczenia do władzy i lojalności będą mogły się odwołać.
+    - Nie chodzi o rozgrywanie każdego dnia podróży. Ważne są decyzje i konsekwencje, które skrót mógłby ukryć.
 
-Grupa porusza się według ograniczeń zwierząt, rannych, wozów, pogody i terenu. Decyzja o przyspieszeniu może zużywać zapasy, zwiększać ryzyko zgubienia drogi albo rozdzielać ludzi. [\[1\]](https://youtu.be/K_5cLiE3cwE?si=MEMRxSFQeTuSllVV)
+- **Fakcja w ruchu to system zależności, nie jeden znacznik na mapie.** [1]
+    - Straż przednia, wozy, zwierzęta, cywile i straż tylna mają różne możliwości i potrzeby. Tempo oraz bezpieczeństwo zależą od elementów podtrzymujących całą grupę.
+    - **Slinky Effect:** przestój z przodu rozchodzi się falą wzdłuż kolumny. Pęknięte koło tworzy zator, rozciąga grupę, utrudnia reakcję i wystawia tyły na zagrożenie.
 
-Warto ustalić:
+- **Beast Burden: ustal, co fizycznie niesie przetrwanie grupy.** [1]
+    - Nie tylko liczba racji: kto ciągnie wozy, czym się żywi, co przewozi i co stanie się po jego utracie?
+    - _Przykład:_ woły ciągną namioty chroniące przed mrozem, lecz jedyny dostępny pokarm to ziarno dla ludzi. Nakarmienie zwierząt zmniejsza racje; odmowa grozi utratą transportu i osłony na noc.
+    - Logistyka staje się dramatem, gdy **jeden zasób podtrzymuje konkurujące potrzeby**. Nie odbieraj wyborowi ceny wygodnym rozwiązaniem znikąd.
 
-- kto zna drogę i kto mu ufa;
-- co grupa niesie i czego nie może zostawić;
-- gdzie można zdobyć wodę, schronienie lub informacje;
-- jakie ślady pozostawia ruch;
-- co stanie się po opóźnieniu.
+- **Moving City: cywile nie stają się oddziałem dzięki rozkazowi.** [1]
+    - Strach, status, głód i prywatne interesy rozbijają wspólny plan. Przemowa nie zastąpi nieistniejącej dyscypliny; cywile nie mogą też znikać z kadru na czas walki.
+    - Przymus może przynieść posłuch, ale ma koszt: egzekucje cywilów kradnących zapasy mogą podważyć moralną i polityczną legitymację przywódcy.
 
-## Kompetencja jest ciekawa, jeśli ma zastosowanie
+### Kompetencja, następstwa i funkcja scen podróży
 
-Przewodnik nie musi tłumaczyć całej wiedzy. Może wcześnie dostrzec zmianę pogody, wybrać miejsce obozu albo rozpoznać, że droga jest zbyt cicha. Dzięki temu świat ujawnia się poprzez **decyzje i ich następstwa**.
+- **Pokaż kompetencję przez wykorzystanie realnych właściwości sytuacji.** [1]
+    - Zapytaj: **„Do czego nadaje się ta konkretna słabość?”** W przykładzie Osara niszczy ciężkie karety i buduje z nich barykadę: masa, która spowalniała marsz, zatrzymuje szybką jazdę pościgu.
+    - Rozwiązanie wyrasta z wcześniej ustanowionego problemu, a nie z nagłego przeobrażenia przerażonych cywilów w zdyscyplinowanych żołnierzy.
 
-## Droga może zmieniać relacje
+- **Konsekwencje podróży mają dotrzeć do celu razem z ludźmi.** [1]
+    - Uratowanie grupy nie gwarantuje wdzięczności. Zniszczone karety, straty i decyzje o racjach mogą zostawić urazy, podziały, wewnętrzną opozycję i okazję dla wroga.
+    - Wiąż problemy przyczynowo: ziarno dla wołów → mniejsze racje ludzi → słabsi żołnierze i rozgoryczenie → kryzys wojskowy oraz polityczny.
 
-Podział obowiązków, zmęczenie, prywatność i zależność od innych tworzą warunki, których nie ma w bezpiecznej bazie. Podróż może więc rozwijać postać albo konflikt, nawet gdy nie pojawia się zewnętrzny atak.
-
-<u>Nie opisuj każdego dnia marszu – wybierz te momenty, w których warunki drogi zmuszają bohaterów do nowej decyzji.</u>
+- **Test redakcyjny tej metody: czy trud podróży wymusza zmianę wcześniejszej decyzji bohatera?** [1]
+    - W tym modelu, jeśli po scenie bohater robi dokładnie to, co planował rano, samo kolejne odmrożenie lub narzekanie nie realizuje zamierzonego testu decyzji – skróć ją, usuń albo rozpoznaj inną funkcję, np. atmosferę, relację lub pokazanie kompetencji.
+    - **Kompresuj powtarzalną niedolę; rozgrywaj wybory zmieniające następny etap marszu i sytuację po przybyciu.**
 
 ## Powiązane artykuły
 
 - [[Miasta, handel i geografia]]
-- [[Cel sceny, zmiana i konflikt]]
-- [[Napięcie, odpoczynek i tempo]]
+- [[Miejsca i podróż|Mapa podkategorii]]
 
 ## Źródła
 
-1. [Tale Tinkerer, „Why Your Fantasy Travel Scenes Make ZERO Sense”](https://youtu.be/K_5cLiE3cwE?si=MEMRxSFQeTuSllVV)
+1. [Why Your Fantasy Travel Scenes Make ZERO Sense](https://youtu.be/K_5cLiE3cwE?si=MEMRxSFQeTuSllVV)
 

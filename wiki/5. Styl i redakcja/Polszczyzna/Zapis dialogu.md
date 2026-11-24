@@ -1,43 +1,28 @@
 ---
-title: Zapis dialogu
-description: Rozpoznawanie granic zdania przy wtrąceniach narratora w dialogu.
+title: "Zapis dialogu"
+description: "Korzystaj przy konkretnych pytaniach językowych i korekcie. Zgromadzone tu reguły są narzędziami diagnostycznymi: sprawdzaj składnię, znaczenie i zamierzony podział wypowiedzi. Pop"
 ---
 
 # Zapis dialogu
 
-[[5. Styl i redakcja|Styl i redakcja]] → [[Polszczyzna]] → **Zapis dialogu**
+[[5. Styl i redakcja|Styl i redakcja]] → [[Polszczyzna|Polszczyzna]] → **Zapis dialogu**
 
-Przy wtrąceniu narratora najważniejsze jest ustalenie, **czy po wtrąceniu trwa to samo zdanie wypowiedzi, czy zaczyna się nowe**. Brak kropki po wtrąceniu nie jest sam w sobie błędem. [\[1\]](https://poradniajezykowa.uw.edu.pl/porady/interpunkcja-w-dialogach/)
+Korzystaj przy konkretnych pytaniach językowych i korekcie. Zgromadzone tu reguły są narzędziami diagnostycznymi: sprawdzaj składnię, znaczenie i zamierzony podział wypowiedzi. Poprawny wariant nie wymaga zamiany na inny tylko dlatego, że częściej spotykasz drugi zapis.
 
-## To samo zdanie wypowiedzi
+### Wtrącenie narratora a granice zdania
 
-Jeżeli kwestia jest kontynuowana, po wtrąceniu pozostaje mała litera:
+**Brak kropki po wtrąceniu narratora nie jest sam w sobie błędem.** Jeśli dalsza część kwestii kontynuuje to samo zdanie, pozostaje mała litera i nie dodaje się kropki. Kropka po wtrąceniu oraz wielka litera oznaczają rozpoczęcie nowego zdania wypowiedzi. Oba warianty są poprawne; przed korektą ustal zamierzony podział zdania. [1]
 
-– Nie wiem – powiedziała – **co o tym myśleć**.
+– Nie wiem – powiedziała – co o tym myśleć.
 
-Wtrącenie narratora rozdziela jedno zdanie wypowiadane przez postać.
-
-## Nowe zdanie wypowiedzi
-
-Jeśli pierwsza część została zakończona, wtrącenie otrzymuje kropkę, a dalsza kwestia zaczyna się wielką literą:
-
-– Nie wiem – powiedziała. – **Co o tym myśleć?**
-
-Oba warianty są poprawne, ale przekazują inny podział i rytm.
-
-## Sprawdź funkcję dopowiedzenia
-
-Wtrącenie może wskazać mówcę, pokazać działanie albo reakcję. Nie powinno automatycznie pojawiać się po każdej kwestii. Więcej o jego użyciu w scenie znajdziesz w [[Oznaczanie mówcy i sceny wieloosobowe|oznaczaniu mówcy i scenach wieloosobowych]].
-
-<u>Interpunkcję dialogu ustala się na podstawie składni wypowiedzi, nie długości pauzy, którą słyszysz podczas czytania.</u>
+– Nie wiem – powiedziała. – Co o tym myśleć?
 
 ## Powiązane artykuły
 
-- [[Oznaczanie mówcy i sceny wieloosobowe]]
-- [[Dialog jako działanie]]
-- [[Rytm, składnia i akcent]]
+- [[Szyk zdania, znaczenie i rozkład informacji]]
+- [[Polszczyzna|Mapa podkategorii]]
 
 ## Źródła
 
-1. [Poradnia Językowa Uniwersytetu Warszawskiego, „Interpunkcja w dialogach”](https://poradniajezykowa.uw.edu.pl/porady/interpunkcja-w-dialogach/)
+1. [Wtrącenie narratora a granice zdania – destylacja porady Barbary Pędzich, UW](https://poradniajezykowa.uw.edu.pl/porady/interpunkcja-w-dialogach/)
 

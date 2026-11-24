@@ -1,45 +1,51 @@
 ---
-title: Polityka, władza i frakcje
-description: Budowanie polityki przez źródła siły, ograniczenia i konflikty wewnętrzne.
+title: "Polityka, władza i frakcje"
+description: "Zakres: samodzielna soczewka pisania osób i instytucji, dla których zachowanie wpływu jest warunkiem realizacji dalszych celów. Poniższe zastosowania do prozy i przykłady dźwigni w"
 ---
 
 # Polityka, władza i frakcje
 
-[[4. Worldbuilding|Worldbuilding]] → [[Religia i polityka]] → **Polityka, władza i frakcje**
+[[4. Worldbuilding|Worldbuilding]] → [[Religia i polityka|Religia i polityka]] → **Polityka, władza i frakcje**
 
-Władza nie jest tytułem, tylko **zdolnością wpływania na decyzje i ponoszenia kosztów tego wpływu**. Władca potrzebuje ludzi, informacji, pieniędzy, legitymizacji i narzędzi egzekwowania decyzji.
+### Zdobywanie, utrzymywanie i ograniczanie władzy (realpolitik)
 
-## Każde źródło siły tworzy zależność
+**Zakres:** samodzielna soczewka pisania osób i instytucji, dla których zachowanie wpływu jest warunkiem realizacji dalszych celów. Poniższe zastosowania do prozy i przykłady dźwigni władzy są adaptacją redakcyjną wybranych fragmentów filmu.
 
-Armia zależy od żołdu i zaopatrzenia, urząd – od informacji i procedur, a religijny autorytet – od uznania wiernych oraz pośredników. To znaczy, że nawet silna frakcja ma punkty nacisku.
+- **Sprawdzaj decyzję przez trzy operacje: zdobyć władzę, utrzymać ją, ograniczyć ją innym.** *Gain power* zwiększa możliwość narzucenia lub przeprowadzenia decyzji; *hold power* chroni już posiadany wpływ przed utratą; *deny power* ogranicza zdolność innych do działania, przeciwstawienia się lub uniezależnienia. Ruch może służyć jednej z tych funkcji albo kilku naraz. [1]
 
-Przy projektowaniu sprawdź:
+- **W tym modelu utrzymanie siły może wyprzedzać realizację deklarowanego programu.** Postać uznaje: „Jeśli stracę możliwość decydowania, nie zrealizuję żadnego z pozostałych celów”. Taka kalkulacja może wyjaśniać kompromis, odwlekanie działania albo obronę pozycji. Przy konkretnej postaci ustal, jak daleko podporządkowuje temu własne przekonania i co pozostaje dla niej granicą. [1]
 
-- skąd frakcja czerpie zasoby;
-- kto wykonuje jej decyzje;
-- jak uzasadnia swoje prawo do rządzenia;
-- czego nie może zrobić bez utraty poparcia;
-- kto korzysta na obecnym układzie, a kto płaci jego cenę.
+- **Nazwij konkretną dźwignię i pokaż, jak decyzja zmienia do niej dostęp.** Zastosowanie pisarskie: pieniądze, wojsko, informacje, nominacje, procedury, prawo wydawania zezwoleń, dostęp do magii lub poparcie sojuszników. „Chce więcej władzy” staje się działaniem dopiero wtedy, gdy wiadomo, co chce przejąć, zabezpieczyć albo odebrać rywalowi. [1]
 
-## Trzy strony ujawniają więcej niż dwie
+- **Ograniczanie cudzej władzy może działać przez zależność i monopol.** W filmie przykładem są tyrani ograniczający dostęp innych do mocy. W prozie może to oznaczać zastrzeżenie szkolenia magów dla korony, uzależnienie wypłat armii od skarbca albo zablokowanie połączenia dwóch rywalizujących rodów. Sprawdzaj także względny układ sił: kto po tej decyzji może działać samodzielnie, a kto potrzebuje cudzej zgody? [1]
 
-Model trzech frakcji utrudnia sprowadzenie konfliktu do jednej osi. Każda strona może mieć inną metodę, wartość i bazę poparcia, a chwilowy sojusz dwóch zmienia pozycję trzeciej. [\[1\]](https://youtu.be/Hnr6Mr1436M?si=fj3ibwwkUHlMPwJC)
+- **Instytucja może bronić własnego wpływu również wobec formalnego zwierzchnika.** Pytanie z filmu o biurokratów – dlaczego mieliby oddać posiadaną władzę? – pozwala pisać opór administracji, doradców czy innych ośrodków decyzji. Zastosowanie: reforma odbiera urzędowi prawo nominacji, więc urząd szuka sposobu zachowania tego prawa, nawet jeśli oficjalny program reformy brzmi rozsądnie. Ustal, co konkretnie traci dana strona i jak może blokować zmianę. [1]
 
-*Frakcja nie jest pojedynczą postacią.* Wewnątrz mogą istnieć skrzydła, rywalizujące interesy i ludzie realizujący wspólny cel innymi środkami.
+**Sposób użycia:** traktuj tę kalkulację jako perspektywę konkretnego aktora. Ustal, kiedy chroni swoją pozycję, a kiedy wybiera inną wartość; w sojuszu sprawdzaj zarówno wspólną korzyść, jak i zmianę samodzielności partnerów.
 
-## Polityka staje się sceną przez wybór
+### Trzy frakcje i subfrakcje (adaptacja pisarska modelu good–bad–ugly)
 
-Zamiast objaśniać cały system, pokaż bohatera, który musi zdobyć poparcie, zapłacić za przysługę albo wybrać, czyją wersję prawa uzna. Wtedy worldbuilding ujawnia się poprzez **konkretne konsekwencje społeczne**.
+- **Buduj politykę przez interesy stron, nie same etykiety moralne.** Słabsza strona potrzebuje pomocy, siła z inicjatywą eskaluje konflikt, a trzeci uczestnik ma interes, którego poparcie lub neutralność może przechylić wynik. Żadna z ról nie wymaga jednolitej oceny moralnej. [2]
 
-<u>Najciekawsza frakcja ma rację w sprawie części problemu i tworzy nowe szkody sposobem, w jaki próbuje go rozwiązać.</u>
+- **Daj frakcjom twarze, przekonania i metody.** Liderzy, doradcy, reformatorzy oraz fanatycy mogą inaczej rozumieć ten sam interes. Ustal, czym usprawiedliwiają działanie i jak reagują pod presją; potem pokaż skutki ich decyzji. [2]
+
+- **Rozwijaj subfrakcje tam, gdzie mają znaczenie dla historii.** Armia, ród lub zakon mogą dzielić się na sprzeczne interesy. Sojusze i rozpad organizacji zmieniają układ sił; liczba trzech grup jest punktem wyjścia modelu, nie obowiązującą geometrią polityki. [2]
+
+- **Moralna złożoność może pozostawiać powód do zaangażowania.** Dobra subfrakcja we wrogim imperium albo ludzie próbujący zmienić skorumpowaną instytucję dają więcej możliwości niż jednolite obozy. Powyższe zastosowanie do prozy jest adaptacją redakcyjną; procedura przygotowania przygody pozostaje w *GM Advice*. [2]
+
+---
+
+Wspólny fundament: Writing Advice. Rejestr: Źródła poradnika. Powiązane tematy: [[1. Proces pisania|Projektowanie historii i proces pracy]], [[Postacie i relacje|Postacie i relacje]], [[Temat i struktura|Temat, symbole i ocena moralna]], [[Opis i atmosfera|Opis, sensoryka i atmosfera]].
+
+Poprzedni: [[Temat i struktura|03. Temat, symbole i ocena moralna]] · Następny: [[Temat i struktura|05. Fabuła i struktura]].
 
 ## Powiązane artykuły
 
 - [[Bogowie, religia i relacje]]
-- [[Obsada, relacje i system opozycji]]
-- [[Miasta, handel i geografia]]
+- [[Religia i polityka|Mapa podkategorii]]
 
 ## Źródła
 
-1. [Tale Tinkerer, „Politics as 3 Factions Triangle”](https://youtu.be/Hnr6Mr1436M?si=fj3ibwwkUHlMPwJC)
+1. [Realpolitik – zdobywanie, utrzymywanie i ograniczanie władzy (wybrane fragmenty)](https://www.youtube.com/watch?v=ffyx1tz4g0w)
+2. [Politics as 3 Factions Triangle](https://youtu.be/Hnr6Mr1436M?si=fj3ibwwkUHlMPwJC)
 
