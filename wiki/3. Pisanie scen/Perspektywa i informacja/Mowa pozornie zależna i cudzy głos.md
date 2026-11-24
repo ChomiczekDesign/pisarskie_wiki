@@ -7,6 +7,8 @@ description: "Poniższe zastosowania do prozy rozwijają analizę publicystyki G
 
 ### Mowa pozornie zależna – przypisywanie myśli i ocen
 
+Jak oddzielać deklarowaną myśl od niechcący ujawnianego nastawienia, opisuje [[Subtekst, szczerość i znaczenie między wierszami|część o samooszukiwaniu i subtekście myśli]].
+
 - **Oddziel fakt od przekonania postaci.** Sama trzecia osoba ani stanowczy ton nie rozstrzygają, czy narrator potwierdza informację, czy przekazuje czyjś wniosek. W miejscach istotnych dla interpretacji sprawdź, czy czytelnik ma podstawy przypisać ocenę bohaterowi. Źródło zawiera praktyczną destylację analiz Tomasika i nasze zastosowania redakcyjne. [1](#source-1)
 
 - **Diagnozuj cały fragment; niejasność naprawiaj w kontekście.** Poprzedzająca obserwacja, osobisty język oceny i następująca po niej reakcja mogą wystarczyć, żeby wskazać, czyja to myśl. „Strażnik przesunął po niej wzrokiem i wrócił do kart. Nie rozpoznał jej. Mogła wreszcie odetchnąć” pozwala odczytać rozpoznanie sytuacji jako wniosek Mili. Nie trzeba automatycznie dodawać „pomyślała” do każdego zdania. W polszczyźnie samo następstwo czasów nie wystarcza do rozpoznania MPZ. [1](#source-1) [2](#source-2)
@@ -44,6 +46,7 @@ Poniższe zastosowania do prozy rozwijają analizę publicystyki Greszczuk; przy
 
 ## Powiązane artykuły
 
+- [[Subtekst, szczerość i znaczenie między wierszami]]
 - [[Fokalizacja zmysłowa i głos bliskiego POV]]
 - [[Percepcja uobecniona i doświadczenie postaci]]
 - [[Perspektywa i informacja|Mapa podkategorii]]

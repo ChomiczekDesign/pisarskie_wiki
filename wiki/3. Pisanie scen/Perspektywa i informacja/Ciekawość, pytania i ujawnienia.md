@@ -50,6 +50,8 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 ### Sekwencja ujawnień (Truby)
 
+Odkrycie może polegać także na odczytaniu przez odbiorcę sensu, którego bohater nie rozpoznaje. Zobacz [[Subtekst, szczerość i znaczenie między wierszami|stopniowanie subtekstu i trzy odstępy diagnostyczne]].
+
 - **Wyodrębnij revelations z całego plotu i sprawdź je razem.** Ich kolejność ma wynikać z tego, jak hero rzeczywiście mógłby zdobywać informacje. [4](#source-4)
 
 - **Buduj intensywność i zagęszczenie.** Truby zaleca coraz mocniejsze reveals i szybsze tempo ich występowania ku końcowi; zaznacza, że w długiej historii nie każde pojedyncze ujawnienie może przewyższać poprzednie. [4](#source-4)
@@ -60,6 +62,7 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 ## Powiązane artykuły
 
+- [[Subtekst, szczerość i znaczenie między wierszami]]
 - [[Główne pytanie historii]]
 - [[Pokazywanie, opowiadanie i ekspozycja]]
 - [[Oczekiwania, wskazówki i zwroty akcji]]
