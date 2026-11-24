@@ -82,6 +82,8 @@ Rytm całości zależy od układu scen oraz od tego, ile miejsca dostaje dana ch
     - Jeśli ważne jest głównie to, **co ta zmiana znaczy dla bohatera** → **Interpreter**.
     - Jeśli dochodzi do **kluczowego konfliktu, objawienia lub wyboru** → **Inhabitant**.
 
+Gdy napięcie ma wynikać z narastającego lęku przed nieznanym, zobacz [[Terror, niepewność i anomalia|techniki terroru]]: precyzyjne fragmenty zagrożenia, konkurujące wyjaśnienia i stopniowe odkrywanie.
+
 ## Powiązane artykuły
 
 - [[Blocking i czytelność działania]]

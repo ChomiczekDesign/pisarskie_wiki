@@ -62,6 +62,8 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 - **Łącz środki wokół jednego efektu.** Rytm dzwonu, synchroniczne ruchy i układ ludzi mogą wspólnie ustanawiać kontrolę oraz zbiorowe skupienie. Intensywność powstaje z ich współdziałania; samo dodawanie głośniejszych bodźców i kolejnych dziwności nie zastępuje spójnej konstrukcji sceny. [2](#source-2)
 
+[[Terror, niepewność i anomalia|Budowanie terroru]] rozwija znaczące braki, naruszenie znajomego i granic ciała oraz dawkowanie ujawnień.
+
 ## Powiązane artykuły
 
 - [[Opis miejsca i wybór szczegółu]]
