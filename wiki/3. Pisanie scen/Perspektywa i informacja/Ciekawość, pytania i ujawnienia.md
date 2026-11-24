@@ -5,6 +5,8 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 # Ciekawość, pytania i ujawnienia
 
+[[Główne pytanie historii]] dotyczy oczekiwania na rozstrzygnięcie losu bohatera i jego dążenia w skali powieści. Poniżej znajdują się narzędzia do pracy z kontekstem, pytaniami w różnych skalach i kolejnością odkryć.
+
 ### Tajemnica a kontekst potrzebny czytelnikowi
 
 - **Oddziel ukrytą odpowiedź od kontekstu potrzebnego teraz.** Możesz nie ujawniać rozwiązania tajemnicy lub wyniku próby, a jednocześnie dać czytelnikowi rozumieć, kto jest w scenie, gdzie i kiedy się ona odbywa, czego postać chce i co ryzykuje. W przykładzie *Igrzysk śmierci* znajomość zasad oraz znaczenia Igrzysk zwiększa zainteresowanie tym, czy i jak Katniss przeżyje. Niepewność wyniku działa dzięki rozumieniu sytuacji. [1](#source-1)
@@ -58,6 +60,7 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 ## Powiązane artykuły
 
+- [[Główne pytanie historii]]
 - [[Pokazywanie, opowiadanie i ekspozycja]]
 - [[Oczekiwania, wskazówki i zwroty akcji]]
 - [[Perspektywa i informacja|Mapa podkategorii]]

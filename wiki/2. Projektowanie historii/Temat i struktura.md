@@ -7,6 +7,7 @@ description: "Mapa artykułów w części „Temat i struktura”."
 
 ## Mapa podkategorii
 
+- [[Główne pytanie historii]]
 - [[Temat opowieści i różne sposoby jego opracowania]]
 - [[Symbole, powtórzenia i motywy]]
 - [[Empatia, moralny framing i reakcja na czyn]]

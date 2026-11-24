@@ -7,6 +7,8 @@ description: "Presja może ujawniać słabość, wymuszać nową strategię i na
 
 Presja może ujawniać słabość, wymuszać nową strategię i nadawać sukcesowi ciężar. Potrzebne są również kontrast, możliwość pokazania kompetencji i zwycięstwa, którego nie unieważnia kolejna obowiązkowa strata.
 
+O tym, jak niepewność dotycząca ceny sukcesu może pogłębić oczekiwanie czytelnika, przeczytasz w artykule o [[Główne pytanie historii|głównym pytaniu historii]].
+
 ### Dopasowanie problemu do postaci
 
 - **Dla konfliktu wymuszającego rozwój podważ dotychczasową strategię bohatera.** [1](#source-1) [2](#source-2) [3](#source-3)
@@ -68,6 +70,7 @@ Presja może ujawniać słabość, wymuszać nową strategię i nadawać sukceso
 
 ## Powiązane artykuły
 
+- [[Główne pytanie historii]]
 - [[Przyczynowość i funkcja scen]]
 - [[Struktura fabuły i odmienne formy]]
 - [[Temat i struktura|Mapa podkategorii]]
