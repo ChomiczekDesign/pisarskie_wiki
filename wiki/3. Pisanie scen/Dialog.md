@@ -8,6 +8,7 @@ description: "Mapa artykułów w części „Dialog”."
 ## Mapa podkategorii
 
 - [[Rozmowa jako działanie i relacja]]
+- [[Status i pozycja w dialogu]]
 - [[Dopowiedzenia narratora i oznaczanie mówcy]]
 - [[Sceny wieloosobowe i orientacja czytelnika]]
 - [[Głos postaci i wiarygodny język]]

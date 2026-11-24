@@ -56,6 +56,8 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 - **Akcent zarządza oczekiwaniem – strzelba Czechowa w ujęciu Wiebe.** Mocno wyróżniony szczegół zachęca odbiorcę do szukania jego dalszego znaczenia; jeśli sugeruje pytanie lub rozwiązanie, uwzględnij odpowiednie domknięcie. Funkcją może być także charakterystyka, atmosfera, temat lub kontrast – nie każda rzecz ma później zadziałać jako narzędzie fabularne. **Nasze doprecyzowanie psychologiczne:** nie uzasadniaj tej zasady rzekomo powszechną przewagą pamięci niedokończonych zadań. Metaanaliza Ghibelliniego i Meiera (2025) nie wykazała ogólnej takiej przewagi; tendencja do podejmowania przerwanych zadań i ich zapamiętywanie to odrębne zjawiska. Związek z obietnicą narracyjną jest zastosowaniem warsztatowym, nie wnioskiem z tych badań. [4](#source-4) [5](#source-5)
 
+- **Reincorporation (Johnstone): przy szukaniu dalszego rozwoju sprawdź wcześniej odłożony element.** Osoba, przedmiot, niewykorzystane pytanie albo skutek dawnej decyzji mogą wrócić w nowej funkcji, tworząc związek zamiast kolejnego niepowiązanego pomysłu. *Zastosowanie do pisania:* payoff można odkryć podczas tworzenia lub redakcji, a potem dopracować jego wcześniejsze podstawy. Nie musiał być od początku zaplanowany; nie każdy detal wymaga też powrotu. [6](#source-6)
+
 ## Powiązane artykuły
 
 - [[Ciekawość, pytania i ujawnienia]]
@@ -68,3 +70,4 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 3. <span id="source-3"></span>[A draft usually stalls because the story was never pointed anywhere.](https://youtu.be/82i5iBWX6Z4?si=NbR5QAWUQQDHGR9I)
 4. <span id="source-4"></span>[The Psychology of Storytelling That Will Change Your Life – Joanna Wiebe](https://www.youtube.com/watch?v=oCnxnaVg0bY)
 5. <span id="source-5"></span>[Interruption, recall and resumption – Romain Ghibellini, Beat Meier (2025)](https://www.nature.com/articles/s41599-025-05000-w)
+6. <span id="source-6"></span>[Impro For GMs: Status, Accepting, Spontaneity, & Reincorporation – RPG PhD](https://www.youtube.com/watch?v=5QUmcViedk4)

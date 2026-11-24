@@ -7,6 +7,8 @@ description: "Wypowiedź wynika z celu, relacji, sytuacji i charakteru mówiące
 
 Wypowiedź wynika z celu, relacji, sytuacji i charakteru mówiącego. Konflikt jest jednym z silników rozmowy, ale współpraca i spokojna wymiana także mogą ujawniać istotne znaczenia. Cele wobec rozmówcy i czasowniki działania opisuje również [[Cel sceny, zmiana i konflikt|Konstruowanie sceny]].
 
+Kto narzuca tempo rozmowy i czyje warunki przyjmują pozostali, rozwija [[Status i pozycja w dialogu|status w relacji]].
+
 ### Intencja, tarcie i reakcja rozmówcy
 
 - **Traktuj rozmowę jak negocjację – szukaj friction zamiast łatwej zgody.** [1](#source-1)
