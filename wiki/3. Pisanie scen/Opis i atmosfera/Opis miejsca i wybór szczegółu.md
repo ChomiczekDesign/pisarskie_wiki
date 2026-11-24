@@ -17,6 +17,11 @@ Opis tworzy orientację, doświadczenie i oczekiwania. W narracji ograniczonej w
 
 - **Cztery powody opisywania:** przygotowanie późniejszego wykorzystania, interesujący szczegół, orientacja w przestrzeni oraz własna przyjemność autora i świadomy wybór stylu. Układ miasta może wymagać opisu, choć nie ujawnia szczególnej emocji. Nie trzeba maksymalizować przystępności dla każdego odbiorcy kosztem własnego głosu. [1](#source-1)
 
+### Emocja w przedmiocie uwagi
+
+- **Zamiast dopisywać emocję do opisu, wybierz szczegół, który już ją niesie.** W filmowej analizie *Beartown* pamiątki z koncertów w odległych miastach i las pochłaniający opuszczone domy łączą zamieranie miejscowości z pragnieniem wyjazdu. Zwykła faktura cudzego płaszcza może stać się cenna dla osoby tęskniącej za ojcowską bliskością. Znaczenie wynika z tego, kto i dlaczego zwraca uwagę, nie z liczby detali. [9](#source-9)
+- **Narrator wszechwiedzący także może komponować emocjonalny obraz.** Nie musi najpierw podać obiektywnej scenografii, a dopiero potem dodać przeżyć postaci. Skojarzenia, metafora i selekcja mogą wyrażać ton narratora lub znaczenie sytuacji. *Nasze doprecyzowanie:* nie przypisuj automatycznie każdego porównania do świadomości bohatera; sprawdź, z czyjej perspektywy dany fragment jest prowadzony. [9](#source-9)
+
 ### Konkret jako nośnik uwagi i pamięci (Wiebe – adaptacja pisarska)
 
 - **Sprawdź, co odbiorca zapamięta zamiast tego, na czym Ci zależy.** W anegdocie Wiebe po abstrakcyjnym komunikacie o marketingu odbiorcy pamiętają kurczaka z nazwy firmy. To wyrazisty obraz, ale nie najważniejsza wiadomość. W prozie pytaj, czy najsilniejszy konkret prowadzi uwagę ku zamierzonemu doświadczeniu, czy przypadkiem zagłusza relację, stawkę lub odkrycie. [7](#source-7)
@@ -103,6 +108,7 @@ Opis tworzy orientację, doświadczenie i oczekiwania. W narracji ograniczonej w
 
 ## Powiązane artykuły
 
+- [[Emocje, introspekcja i melodramatyzm]]
 - [[Atmosfera, przestrzeń i orientacja]]
 - [[Opis i atmosfera|Mapa podkategorii]]
 
@@ -116,3 +122,4 @@ Opis tworzy orientację, doświadczenie i oczekiwania. W narracji ograniczonej w
 6. <span id="source-6"></span>[Fix Your Furniture Catalog Fantasy Writing Style](https://youtu.be/709mcB21V_k?si=m3RS9zahr_6teQzO)
 7. <span id="source-7"></span>[The Psychology of Storytelling That Will Change Your Life – Joanna Wiebe](https://www.youtube.com/watch?v=oCnxnaVg0bY)
 8. <span id="source-8"></span>[Concreteness and levels of processing – Benjamin A. Anderson, Scott A. Peterson (2022)](https://doi.org/10.1080/09658211.2022.2120622)
+9. <span id="source-9"></span>[SHOW, DON'T TELL (is a lie) | On Writing – Hello Future Me](https://www.youtube.com/watch?v=UUjUs5hAMHQ)

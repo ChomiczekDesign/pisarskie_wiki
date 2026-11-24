@@ -47,6 +47,12 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
     - Jeśli istnieje głównie po to, żeby brzmieć „literacko”, prawdopodobnie przeszkadza.
     - _Test:_ **co tracę, jeśli uproszczę to zdanie?** Jeśli nic – uprość.
 
+### Precyzja języka emocji
+
+- **Rozróżniaj jakość uczucia, nie tylko jego siłę.** Smutek po chwilowym rozczarowaniu różni się od utraty wiary, tożsamości i sensu. W analizie *The Testaments* „wygnanie”, „wypalanie” i „więdnięcie” wnoszą różne skojarzenia; nie są ozdobnymi synonimami „było jej bardzo smutno”. Przy „bardzo zmęczony” ustal, czy chodzi o senność, wyczerpanie czy dość danej sytuacji – te znaczenia nie są wymienne. Wyrazisty język nie musi być wyszukany: dobór zależy od głosu i perspektywy. [5](#source-5)
+
+- **Kliszę oceniaj w kontekście, a wzmacniacze według funkcji.** W omawianym fragmencie Remarque’a poprawienie obrazu postrzału na ugodzenie nożem wiąże ból z wojennym doświadczeniem i osobistym wymiarem zabicia człowieka. Znana metafora może więc odzyskać sens. „Bardzo” i „niezwykle” bywają sygnałem małej precyzji, ale ich skasowanie nie gwarantuje poprawy; nie każdy prosty komunikat potrzebuje mocniejszego słowa ani nowego porównania. [5](#source-5)
+
 ### Redundancja i pozostawienie pracy czytelnikowi
 
 - **Sprawdzaj także objaśnienie poprzedzające scenę.** „Piknik był katastrofą”, po którym scena jedynie dowodzi tej samej oceny, może być pozostałością roboczej notatki o jej celu. Jeśli wstęp nie wnosi osobnej funkcji, wybierz skrót albo pełne rozegranie zamiast podawać efekt dwukrotnie. To rozpoznawanie zbędnego powtórzenia, nie zakaz opowiadania ani łączenia sceny ze skrótem. [4](#source-4)
@@ -97,6 +103,7 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 ## Powiązane artykuły
 
+- [[Emocje, introspekcja i melodramatyzm]]
 - [[Rytm, składnia i przeplatanie rodzajów treści]]
 - [[Styl|Mapa podkategorii]]
 
@@ -106,3 +113,4 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 2. <span id="source-2"></span>[Get Over Overstating](http://blog.janicehardy.com/2010/09/re-write-wednesday-golden-oldie-get.html)
 3. <span id="source-3"></span>[Worst Description Mistakes](https://www.youtube.com/watch?v=ukaGjj0ohZQ)
 4. <span id="source-4"></span>[The Common Scaffold – Emma Darwin](https://emmadarwin.substack.com/p/the-common-scaffold)
+5. <span id="source-5"></span>[SHOW, DON'T TELL (is a lie) | On Writing – Hello Future Me](https://www.youtube.com/watch?v=UUjUs5hAMHQ)

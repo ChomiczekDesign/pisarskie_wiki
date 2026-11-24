@@ -28,6 +28,8 @@ Ukryte znaczenie potrzebuje czytelnych sygnałów. Można zdecydować, co bohate
     - **Emotional Evidence:** gest, ton, przemilczenie, dobór słów lub działanie pozwalają rozpoznać emocję. W tym filmie narzędzie służy unikaniu deklaracji zastępujących subtekst.
     - _Przykład:_ zamiast „jestem wściekły” – uprzejma, precyzyjna uwaga o ojcu, którego rozmówca kazał stracić.
 
+- **Rozmowa może służyć przekonywaniu samego siebie.** W omawianym fragmencie Remarque’a żołnierz mówi do zabitego człowieka, wyjaśnia wcześniejsze decyzje i obiecuje pomoc jego bliskim. Próbuje zarazem uporać się z winą i własnym obrazem siebie. Sprawdź, komu faktycznie ma służyć uzasadnienie: rozmówcy, nieobecnej osobie czy mówiącemu. Długość, nawroty, przerwania i dygresje odczytuj względem zwykłego sposobu mówienia tej postaci. [5](#source-5)
+
 ## Zanim napiszesz rozmowę: wybierz ukrytą treść
 
 Subtekst łatwiej zaprojektować, kiedy wiadomo, **co czytelnik ma rozpoznać bez bezpośredniego objaśnienia**. Poniższy sposób pracy porządkuje narzędzia September C. Fawkes według decyzji potrzebnych przy budowaniu sceny. Można go stosować samodzielnie. [4](#source-4)
@@ -159,6 +161,7 @@ To łączy subtekst z [[Ciekawość, pytania i ujawnienia|projektowaniem ujawnie
 
 ## Powiązane artykuły
 
+- [[Emocje, introspekcja i melodramatyzm]]
 - [[Mowa pozornie zależna i cudzy głos]]
 - [[Ciekawość, pytania i ujawnienia]]
 - [[Głos postaci i wiarygodny język]]
@@ -171,3 +174,4 @@ To łączy subtekst z [[Ciekawość, pytania i ujawnienia|projektowaniem ujawnie
 2. <span id="source-2"></span>[Dialogue Mistakes to Avoid](https://youtu.be/4Jyi83uVQic?si=VP0f1cflOhORo8Xz)
 3. <span id="source-3"></span>[The Anatomy Of Story - Scene Construction](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
 4. <span id="source-4"></span>[How to Write What’s Not Written (Subtext) – September C. Fawkes](https://www.septembercfawkes.com/2015/03/how-to-write-whats-not-written-subtext.html)
+5. <span id="source-5"></span>[SHOW, DON'T TELL (is a lie) | On Writing – Hello Future Me](https://www.youtube.com/watch?v=UUjUs5hAMHQ)
