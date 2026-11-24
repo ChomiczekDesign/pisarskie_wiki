@@ -5,8 +5,6 @@ description: "Mapa artykułów w części „Fundamenty świata”."
 
 # Fundamenty świata
 
-[[4. Worldbuilding|Worldbuilding]] → **Fundamenty świata**
-
 ## Mapa podkategorii
 
 - [[Zakres worldbuildingu i dobór metody]]
@@ -14,4 +12,3 @@ description: "Mapa artykułów w części „Fundamenty świata”."
 - [[Arena, przestrzenie i świat jako wyraz postaci]]
 - [[Historia, rozwój technologiczny i stagnacja]]
 - [[Czas, pory roku i rytuały]]
-

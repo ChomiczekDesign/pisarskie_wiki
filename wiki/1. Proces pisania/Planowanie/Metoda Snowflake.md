@@ -1,33 +1,44 @@
 ---
 title: "Metoda Snowflake"
-description: "Zależność kroków: kolejne opracowania rozwijają te same wcześniejsze ustalenia. Strona fabuły wynika z akapitu, czterostronicowy synopsis ze strony, a lista scen z synopsisu. Sam n"
+description: "Snowflake rozwija powieść od ogółu do szczegółu. Zamiast przechodzić bezpośrednio od pomysłu do kilkudziesięciu scen, autor tworzy kolejne, coraz dokładniejsze wersje tej samej his"
 ---
 
 # Metoda Snowflake
 
-[[1. Proces pisania|Proces pisania]] → [[Planowanie|Planowanie]] → **Metoda Snowflake**
+Snowflake rozwija powieść **od ogółu do szczegółu**. Zamiast przechodzić bezpośrednio od pomysłu do kilkudziesięciu scen, autor tworzy kolejne, coraz dokładniejsze wersje tej samej historii. Fabuła i postacie są rozwijane naprzemiennie, a wcześniejsze decyzje można poprawiać po każdym nowym odkryciu. [1](#source-1)
 
-### Projektowanie powieści (Snowflake)
+## Dziesięć kroków
 
-**Zależność kroków:** kolejne opracowania rozwijają te same wcześniejsze ustalenia. Strona fabuły wynika z akapitu, czterostronicowy synopsis ze strony, a lista scen z synopsisu. Sam numer kroku nie określa osobnego narzędzia bez tych danych wejściowych.
+1. **Jedno zdanie** – połącz duży konflikt z osobistym celem bohatera. Ingermanson proponuje bardzo krótki pitch bez nazw własnych, ale ważniejsza od ścisłego limitu jest czytelność rdzenia historii.
+2. **Jeden akapit** – opisz sytuację wyjściową, trzy duże komplikacje lub katastrofy i zakończenie. To synopsis projektowy, więc nie ukrywaj przed sobą finału.
+3. **Krótkie zarysy głównych postaci** – zapisz ich motywację, konkretny cel, przeszkody, przemianę i przebieg osobistej historii.
+4. **Jedna strona fabuły** – rozwiń każde zdanie akapitu w osobny akapit. Sprawdź, czy kolejne części wynikają z wcześniejszych decyzji.
+5. **Historia z perspektywy ważnych postaci** – pozwól każdej opowiedzieć wydarzenia po swojemu. Ujawnia to odmienne cele, wiedzę i miejsca, w których postać znika z projektu.
+6. **Czterostronicowy synopsis** – rozwiń stronę fabuły, dopracowując logikę zdarzeń, punkty zwrotne i decyzje.
+7. **Pełniejsze profile postaci** – uzupełnij historię, wartości, sprzeczności i przede wszystkim sposób przemiany. Profil ma pomagać przewidywać wybory, a nie tylko katalogować cechy.
+8. **Lista scen** – jedna pozycja na scenę, jej POV i zasadnicze wydarzenie. Możesz dodać długość, wątek lub rozdział, jeśli pomaga to w pracy.
+9. **Opcjonalne szkice scen** – rozpisz konflikt, przebieg i pomysły na dialog. Sam autor metody przestał używać tego kroku, więc nie jest on warunkiem Snowflake.
+10. **Pierwszy draft** – napisz sceny, rozwiązując lokalne problemy dopiero wtedy, gdy się pojawią. [1](#source-1)
 
-- **Rozwijaj fabułę i postacie naprzemiennie, od ogółu do szczegółu.** Każdy etap przygotowuje następny; wcześniejsze ustalenia mogą się zmieniać. [1]
+## Jak korzystać z metody
 
-- **Dziesięć kroków:** [1]
-    1. **Zdanie:** ujmij rdzeń historii, łącząc duży konflikt z osobistym celem.
-    2. **Akapit:** sytuacja wyjściowa, trzy katastrofy i zakończenie.
-    3. **Zarys postaci:** abstrakcyjna motywacja, konkretny cel, przeszkody, rozpoznanie/przemiana i przebieg jej historii.
-    4. **Strona fabuły:** rozwiń każde zdanie akapitu w osobny akapit.
-    5. **Perspektywy postaci:** opowiedz historię z punktu widzenia każdej ważnej postaci.
-    6. **Cztery strony fabuły:** dopracuj logikę wydarzeń i główne decyzje.
-    7. **Pełniejsze profile postaci:** uzupełnij historię, cechy i przede wszystkim przemianę.
-    8. **Lista scen:** jedna pozycja na scenę, POV i wydarzenie; sprawdź kolejność.
-    9. **Opcjonalne szkice scen:** rozpisz konflikt i pomysły na dialog; autor pomija już ten etap.
-    10. **Pierwszy draft:** napisz sceny, rozwiązując pozostałe szczegółowe problemy.
+- **Każdy poziom ma odpowiadać temu samemu projektowi.** Jeśli lista scen nie wynika z synopsisu, a działania postaci nie pasują do ich celów, wróć do wcześniejszego kroku i popraw zależność.
+- **Nie dopracowuj dokumentów do perfekcji.** Ich zadaniem jest wykrywanie problemów i przygotowanie następnej decyzji. Plan pozostaje roboczy.
+- **Rozwijaj tylko tyle, ile daje ci pewność potrzebną do pisania.** Możesz zatrzymać się po akapicie i zarysach postaci, napisać kilka scen, a potem wrócić.
+- **Nie myl dokumentu projektowego z tekstem promocyjnym.** Synopsis dla autora zawiera zakończenie; opis dla czytelnika ma wzbudzić ciekawość.
 
-- **Trzy katastrofy są preferencją autora.** Pierwsza może przyjść z zewnątrz; druga i trzecia powinny wynikać z prób naprawienia sytuacji przez protagonistę. [1]
+## Kiedy wybrać Snowflake
 
-- **Odróżnij synopsis projektowy od opisu dla czytelnika.** Akapit Snowflake obejmuje zakończenie, bo ma sprawdzić konstrukcję. Opis na okładkę ma zachęcać do lektury; Ingermanson proponuje ograniczenie go do początkowej części historii. Nie ukrywaj finału przed sobą w dokumencie projektowym. [1]
+Metoda pomaga osobom, które:
+
+- mają ogólny pomysł, lecz gubią się przy przejściu do scen;
+- wolą rozwiązywać problemy małymi krokami zamiast tworzyć od razu rozbudowany outline;
+- chcą równolegle kontrolować fabułę i rozwój postaci;
+- potrzebują dokumentów, do których można wrócić podczas draftu albo redakcji.
+
+Może przeszkadzać, jeśli kolejne streszczenia odbierają ci energię do pisania albo odkrywasz historię głównie poprzez sceny. W takim przypadku użyj tylko pierwszych kroków i [[Lista scen i przeplatanie wątków|listy scen]] albo wybierz [[Pięć punktów przemiany i model 15 scen|lżejszy szkielet emocjonalny]].
+
+<u>Snowflake nie polega na przewidzeniu wszystkiego. Polega na tym, że każdy kolejny poziom szczegółu ma widoczne źródło w szerszej wersji historii.</u>
 
 ## Powiązane artykuły
 
@@ -37,5 +48,4 @@ description: "Zależność kroków: kolejne opracowania rozwijają te same wcze�
 
 ## Źródła
 
-1. [The Snowflake Method For Designing A Novel](https://www.advancedfictionwriting.com/articles/snowflake-method/)
-
+1. <span id="source-1"></span>[The Snowflake Method For Designing A Novel](https://www.advancedfictionwriting.com/articles/snowflake-method/)

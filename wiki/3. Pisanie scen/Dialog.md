@@ -5,8 +5,6 @@ description: "Mapa artykułów w części „Dialog”."
 
 # Dialog
 
-[[3. Pisanie scen|Pisanie scen]] → **Dialog**
-
 ## Mapa podkategorii
 
 - [[Rozmowa jako działanie i relacja]]
@@ -17,4 +15,3 @@ description: "Mapa artykułów w części „Dialog”."
 - [[Wielowarstwowy dialog w modelu Truby’ego]]
 - [[Negocjacje, potrzeby i warunki porozumienia]]
 - [[Sprawdzanie dialogu]]
-

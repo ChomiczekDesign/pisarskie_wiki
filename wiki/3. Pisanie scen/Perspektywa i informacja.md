@@ -5,8 +5,6 @@ description: "Mapa artykułów w części „Perspektywa i informacja”."
 
 # Perspektywa i informacja
 
-[[3. Pisanie scen|Pisanie scen]] → **Perspektywa i informacja**
-
 ## Mapa podkategorii
 
 - [[Dystans narracyjny i zmiany perspektywy]]
@@ -18,4 +16,3 @@ description: "Mapa artykułów w części „Perspektywa i informacja”."
 - [[Pokazywanie, opowiadanie i ekspozycja]]
 - [[Ciekawość, pytania i ujawnienia]]
 - [[Oczekiwania, wskazówki i zwroty akcji]]
-

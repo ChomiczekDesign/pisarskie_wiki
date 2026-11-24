@@ -5,25 +5,23 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 # Historia, magia i żywy świat
 
-[[4. Worldbuilding|Worldbuilding]] → [[Fundamenty świata|Fundamenty świata]] → **Historia, magia i żywy świat**
-
 ### Ślady przeszłości i skutki magii
 
-- **Rób environmental storytelling przez 3R: Remnants, Routines, Reactions.** [1]
+- **Rób environmental storytelling przez 3R: Remnants, Routines, Reactions.** [1](#source-1)
     - **Remnants:** fizyczne ślady przeszłych wydarzeń.
     - **Routines:** pozostałości codziennych czynności pokazujące, jak żyli tu ludzie.
     - **Reactions:** sposób, w jaki bohater reaguje na miejsce, ujawnia jego wiedzę i historię.
     - Dodaj jeden szczegół, który **stawia pytanie i buduje mystery**.
     - _Przykład:_ ślady po zaklęciach + niedokończone mikstury + bohater rozpoznaje rzadki symbol + jeden portret pozostaje dziwnie wolny od kurzu.
 
-- **Magia powinna wpływać na zwykłe życie – Living World Principle.** [1]
+- **Magia powinna wpływać na zwykłe życie – Living World Principle.** [1](#source-1)
     - **Start small:** pokaż drobne, codzienne skutki magii przed wielkimi spellami.
     - **Patterns:** jej działanie powinno być konsekwentne.
     - **Adaptation:** pokaż, jak ludzie, zwierzęta i zwyczaje dostosowały się do magii.
     - **Weathering:** magia powinna zostawiać trwały ślad na przestrzeni.
     - _Przykład:_ wieloletnia energia wypacza drewno, zmienia szkło, wpływa na rośliny i zachowanie lokalnych zwierząt.
 
-- **Najważniejsze settingi traktuj jak postacie.** [1]
+- **Najważniejsze settingi traktuj jak postacie.** [1](#source-1)
     - Daj miejscu **osobowość** – np. dumne, stare, nieufne.
     - Daj mu **cel lub tendencję** – coś chroni, ukrywa, przyciąga albo odpycha.
     - Określ jego **relacje z postaciami** – może reagować inaczej na różnych ludzi.
@@ -32,7 +30,7 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 ### Reakcja świata na wydarzenia
 
-- **Świat powinien reagować na fabułę.** [2]
+- **Świat powinien reagować na fabułę.** [2](#source-2)
     - Setting nie jest nieruchomą dekoracją.
     - Pokazuj **cause → effect**: wydarzenia zmieniają ludzi, miejsca, handel, politykę, rutyny i systemy świata.
     - Wracając do znanego miejsca, pokaż, **co zmieniło się od ostatniej wizyty**.
@@ -45,6 +43,5 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 ## Źródła
 
-1. [Fix Your Furniture Catalog Fantasy Writing Style](https://youtu.be/709mcB21V_k?si=m3RS9zahr_6teQzO)
-2. [Worst Description Mistakes](https://www.youtube.com/watch?v=ukaGjj0ohZQ)
-
+1. <span id="source-1"></span>[Fix Your Furniture Catalog Fantasy Writing Style](https://youtu.be/709mcB21V_k?si=m3RS9zahr_6teQzO)
+2. <span id="source-2"></span>[Worst Description Mistakes](https://www.youtube.com/watch?v=ukaGjj0ohZQ)

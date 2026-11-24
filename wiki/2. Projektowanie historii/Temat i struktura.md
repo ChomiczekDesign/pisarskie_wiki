@@ -5,8 +5,6 @@ description: "Mapa artykułów w części „Temat i struktura”."
 
 # Temat i struktura
 
-[[2. Projektowanie historii|Projektowanie historii]] → **Temat i struktura**
-
 ## Mapa podkategorii
 
 - [[Temat opowieści i różne sposoby jego opracowania]]
@@ -17,4 +15,3 @@ description: "Mapa artykułów w części „Temat i struktura”."
 - [[Struktura fabuły i odmienne formy]]
 - [[Otwarcie, pierwsze zdanie i pierwszy rozdział]]
 - [[Zakończenie, domknięcie i dalsze życie historii]]
-

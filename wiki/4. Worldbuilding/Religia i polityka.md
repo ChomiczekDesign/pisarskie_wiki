@@ -5,10 +5,7 @@ description: "Mapa artykułów w części „Religia i polityka”."
 
 # Religia i polityka
 
-[[4. Worldbuilding|Worldbuilding]] → **Religia i polityka**
-
 ## Mapa podkategorii
 
 - [[Bogowie, religia i relacje]]
 - [[Polityka, władza i frakcje]]
-

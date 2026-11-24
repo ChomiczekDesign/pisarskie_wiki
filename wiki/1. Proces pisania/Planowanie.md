@@ -5,8 +5,6 @@ description: "Mapa artykułów w części „Planowanie”."
 
 # Planowanie
 
-[[1. Proces pisania|Proces pisania]] → **Planowanie**
-
 ## Mapa podkategorii
 
 - [[Jak wybrać metodę planowania]]
@@ -14,4 +12,3 @@ description: "Mapa artykułów w części „Planowanie”."
 - [[Metoda Snowflake]]
 - [[Pięć punktów przemiany i model 15 scen]]
 - [[Lista scen i przeplatanie wątków]]
-

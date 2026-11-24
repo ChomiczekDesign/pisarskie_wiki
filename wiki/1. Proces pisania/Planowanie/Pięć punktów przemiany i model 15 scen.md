@@ -1,46 +1,74 @@
 ---
 title: "Pięć punktów przemiany i model 15 scen"
-description: "Wymaga kontekstu modelu: liczba 15 wynika z pięciu punktów przemiany rozwijanych przez Setup–Choice–Aftermath. Nie jest uniwersalną liczbą scen powieści; znaczenie danego klastra w"
+description: "Ta metoda buduje plan wokół pięciu nieodwracalnych decyzji bohatera. Każda decyzja otrzymuje przygotowanie i konsekwencje, dlatego pięć punktów rozwija się w piętnaście kluczowych "
 ---
 
 # Pięć punktów przemiany i model 15 scen
 
-[[1. Proces pisania|Proces pisania]] → [[Planowanie|Planowanie]] → **Pięć punktów przemiany i model 15 scen**
+Ta metoda buduje plan wokół **pięciu nieodwracalnych decyzji bohatera**. Każda decyzja otrzymuje przygotowanie i konsekwencje, dlatego pięć punktów rozwija się w piętnaście kluczowych scen. Nie oznacza to, że cała powieść ma mieć dokładnie piętnaście scen – są one emocjonalnym szkieletem, między którym można umieścić potrzebne połączenia, wątki poboczne i spokojniejsze momenty. [1](#source-1)
 
-### Pięć emotional waypoints i piętnaście scen (model 15 scen)
+## Zacznij od Story Promise
 
-**Wymaga kontekstu modelu:** liczba 15 wynika z pięciu punktów przemiany rozwijanych przez Setup–Choice–Aftermath. Nie jest uniwersalną liczbą scen powieści; znaczenie danego klastra wynika z jego miejsca na opisanym łuku emocjonalnym.
+Story Promise określa obiecaną przemianę emocjonalną, nie tylko zewnętrzny rezultat.
 
-- **W tym modelu planowania zacznij od Story Promise – obiecanej przemiany emocjonalnej.** [1]
-    - Nie „chłopak zostaje królem”, tylko np. **„chłopak uczy się, że rządzić znaczy chronić nawet tych, którzy go zdradzili.”**
-    - Story Promise ma być emocjonalne, konkretne i użyteczne jako filtr: **czy ta scena pomaga dowieźć tę przemianę?**
-    - Budowa: _co się dzieje → dlaczego to emocjonalnie ważne → jaką prawdę o człowieku to odsłania_.
+- Zewnętrznie: „chłopak zostaje królem”.
+- Emocjonalnie: **„chłopak uczy się, że rządzić znaczy chronić także tych, którzy go zdradzili”.**
 
-- **Buduj napięcie przez Conflict Triangle.** [1]
-    - **External:** co świat robi bohaterowi?
-    - **Interpersonal:** z kim bohater jest w konflikcie i dlaczego?
-    - **Internal:** z czym nie potrafi jeszcze zmierzyć się w sobie?
-    - Scena może mieć jeden konflikt dominujący, ale dobrze, gdy jego konsekwencje zahaczają o pozostałe dwa.
-    - _Przykład:_ bohater walczy z wrogiem (**external**), który okazuje się dawnym przyjacielem (**interpersonal**), a jego argument trafia w moralne wątpliwości protagonisty (**internal**).
+Dobra obietnica odpowiada na trzy pytania:
 
-- **Zaplanuj 5 Emotional Waypoints – roboczy szkielet arcu w metodzie autora.** [1]
-    - Waypoint nie jest tylko plot beatem; to **wybór, po którym postać nie może wrócić do wcześniejszego stanu**.
-    - Dobry wybór:
-        - ma osobistą stawkę,
-        - zmusza do wyboru między konkurującymi wartościami,
-        - ma trwałe konsekwencje dla późniejszych decyzji.
-    - Kolejne decyzje powinny na siebie rezonować – wcześniejsze wybory zwiększają ciężar następnych.
+1. Co wydarzy się bohaterowi?
+2. Dlaczego będzie to dla niego emocjonalnie ważne?
+3. Jaką prawdę o sobie, innych lub świecie będzie musiał skonfrontować?
 
-- **Każdy z 5 waypointów rozpisz jako 3 sceny: Setup → Choice → Aftermath.** [1]
-    - **Setup:** buduje presję, stawkę i konflikt; sprawia, że nadchodzący wybór wydaje się nieunikniony.
-    - **Choice:** bohater musi aktywnie wybrać między trudnymi opcjami; decyzja wynika z dotychczasowego arcu.
-    - **Aftermath:** pokazuje emocjonalne i praktyczne konsekwencje oraz tworzy napięcie prowadzące do następnego waypointu.
-    - **5 waypointów × 3 sceny = 15 scen**, które wystarczą jako pełny emocjonalny szkielet powieści.
+## Zbuduj Conflict Triangle
 
-- **Dodatkowe sceny są connective tissue, nie fundamentem.** [1]
-    - Dodawaj je tylko, jeśli pogłębiają konsekwencje, relacje, subplots, temat albo przygotowują kolejny waypoint.
-    - Nie dodawaj scen tylko dlatego, że są „cool” – każda powinna **budować, łamać albo transformować** emocjonalną podróż bohatera.
-    - Jeśli jesteś discovery writerem, możesz zaplanować tylko te 15 scen i odkrywać wszystko pomiędzy nimi podczas pisania.
+Sprawdź nacisk na trzech poziomach:
+
+- **External** – co świat robi bohaterowi i jakie praktyczne przeszkody stawia na drodze?
+- **Interpersonal** – z kim bohater pozostaje w konflikcie i jakie relacje komplikują wybór?
+- **Internal** – z jakim przekonaniem, lękiem albo wartością bohater nie umie się jeszcze zmierzyć?
+
+Najmocniejsze decyzje często łączą wszystkie trzy poziomy. Walka z przeciwnikiem może być równocześnie starciem z dawnym przyjacielem i próbą własnego kodeksu moralnego. [1](#source-1)
+
+## Wybierz pięć Emotional Waypoints
+
+Waypoint jest **wyborem, po którym postać nie może wrócić do wcześniejszego stanu**. Nie musi oznaczać katastrofy, ale powinien zmieniać dostępne możliwości, relacje albo sposób rozumienia problemu.
+
+Dobry wybór:
+
+- ma osobistą stawkę;
+- zmusza do zderzenia konkurujących wartości;
+- wynika z wcześniejszych doświadczeń bohatera;
+- wywołuje trwałe konsekwencje;
+- zwiększa ciężar następnej decyzji.
+
+Pięć punktów nie ma jednej obowiązkowej treści. Możesz potraktować je jako kolejne etapy od pierwszego zaangażowania w konflikt, przez kosztowne zobowiązania i kryzys, aż po decyzję rozstrzygającą przemianę.
+
+## Każdy punkt rozpisz jako trzy sceny
+
+1. **Setup** – buduje presję, stawkę i ograniczenia. Czytelnik powinien rozumieć, dlaczego wybór staje się konieczny oraz co bohater może stracić.
+2. **Choice** – bohater aktywnie wybiera między trudnymi opcjami. Decyzja powinna wynikać z jego dotychczasowych wartości i jednocześnie popychać przemianę.
+3. **Aftermath** – pokazuje praktyczne i emocjonalne konsekwencje. Zmienia sytuację oraz przygotowuje presję prowadzącą do następnego waypointu.
+
+**5 waypointów × 3 sceny = 15 scen.** [1](#source-1)
+
+## Co robić z pozostałymi scenami
+
+Dodawaj je, jeśli:
+
+- rozwijają konsekwencje poprzedniego wyboru;
+- pogłębiają relację albo wątek poboczny;
+- przygotowują następny waypoint;
+- zmieniają wiedzę, możliwości lub koszt działania;
+- dają potrzebny odpoczynek, który nadal rozwija postacie lub oczekiwania.
+
+Jeśli scena nie buduje, nie łamie ani nie przekształca emocjonalnej drogi, sprawdź jej funkcję za pomocą [[Cel sceny, zmiana i konflikt|testu celu i zmiany sceny]].
+
+## Dla kogo jest ta metoda
+
+Sprawdza się, gdy znasz ogólną fabułę, ale wydarzenia nie tworzą jeszcze wyraźnej przemiany bohatera. Jest także użyteczna dla discovery writera – można zaplanować tylko piętnaście punktów orientacyjnych i odkrywać drogę między nimi podczas draftu.
+
+Jeżeli historia jest celowo epizodyczna, wielobohaterowa albo oparta na niezmiennym protagoniście, nie wciskaj jej w pojedynczy łuk przemiany. Wtedy lepsza może być [[Lista scen i przeplatanie wątków|lista scen i wątków]] albo szerszy [[Proces planowania Truby’ego|system zależności Truby’ego]].
 
 ## Powiązane artykuły
 
@@ -50,5 +78,4 @@ description: "Wymaga kontekstu modelu: liczba 15 wynika z pięciu punktów przem
 
 ## Źródła
 
-1. [5 Scenes to outline your novel](https://www.youtube.com/watch?v=ubfuwItruAc)
-
+1. <span id="source-1"></span>[5 Scenes to outline your novel](https://www.youtube.com/watch?v=ubfuwItruAc)

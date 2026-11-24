@@ -5,8 +5,6 @@ description: "Mapa artykułów w części „Postacie i relacje”."
 
 # Postacie i relacje
 
-[[2. Projektowanie historii|Projektowanie historii]] → **Postacie i relacje**
-
 ## Mapa podkategorii
 
 - [[Cel, motywacja i sprawczość]]
@@ -22,4 +20,3 @@ description: "Mapa artykułów w części „Postacie i relacje”."
 - [[Kryzys, wsparcie i Third Man Factor]]
 - [[Śmierć postaci i plot armor]]
 - [[Imiona i kulturowy system nazw]]
-

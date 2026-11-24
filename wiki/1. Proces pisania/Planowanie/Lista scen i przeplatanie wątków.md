@@ -1,33 +1,65 @@
 ---
 title: "Lista scen i przeplatanie wątków"
-description: "Zależność dotyczy tagów structure step: odsyłają one do kroków struktury Truby’ego. Samą listę scen, oznaczanie wątków i przestawianie kolejności można stosować niezależnie od jego"
+description: "Lista scen pozwala zobaczyć całą historię bez prozy, opisów i dialogu. Każdą scenę sprowadza się do jednej zasadniczej akcji lub zmiany, dzięki czemu łatwiej ocenić przyczynowość, "
 ---
 
 # Lista scen i przeplatanie wątków
 
-[[1. Proces pisania|Proces pisania]] → [[Planowanie|Planowanie]] → **Lista scen i przeplatanie wątków**
+Lista scen pozwala zobaczyć całą historię bez prozy, opisów i dialogu. Każdą scenę sprowadza się do **jednej zasadniczej akcji lub zmiany**, dzięki czemu łatwiej ocenić przyczynowość, rytm, nieobecne ogniwa i proporcje wątków. Można ją stworzyć przed draftem albo odtworzyć z już napisanego tekstu. [1](#source-1) [2](#source-2)
 
-### Zwięzła mapa całości (Truby)
+## Minimalny zapis sceny
 
-**Zależność dotyczy tagów structure step:** odsyłają one do kroków struktury Truby’ego. Samą listę scen, oznaczanie wątków i przestawianie kolejności można stosować niezależnie od jego modelu.
+Najprostszy arkusz może zawierać:
 
-- **Scene weave to lista wszystkich scen przed ich pełnym napisaniem:** jedna zasadnicza akcja w jednym–dwóch zdaniach, z tagiem structure step tam, gdzie dany krok występuje. [1]
+- **numer lub roboczą kolejność**;
+- **POV**;
+- **jedno–dwa zdania o zasadniczym wydarzeniu**;
+- **wynik sceny** – co zmienia się w sytuacji, relacji, wiedzy albo decyzji;
+- opcjonalnie **wątek**, krok struktury, przewidywaną długość lub rozdział.
 
-- **Rozdziel linie i podsekcje oznaczeniami**, aby móc sprawdzić każdą osobno, a potem ich splot. Zbyt szczegółowy opis scen zasłania architekturę. [1]
+Nie zapisuj pełnego przebiegu dialogu i wszystkich gestów. Zbyt szczegółowe streszczenie zasłania architekturę, którą lista ma odsłonić. [1](#source-1)
 
-- **Porządkuj według struktury i rozwoju bohatera**, nie przez samo „co następuje później w czasie”. Reorder, combine, cut i add służą dopracowaniu sekwencji. [1]
+## Praca z kolejnością
 
-### Arkusz scen (Snowflake)
+Po zebraniu scen wykonaj cztery podstawowe operacje:
 
-- **Arkusz scen może mieć tylko dwie podstawowe kolumny: POV i wydarzenie.** Ingermanson dopuszcza szacowaną długość oraz późniejsze przypisanie rozdziału. Przestawianie wierszy i kolejne wersje listy służą sprawdzaniu konstrukcji; szczegółowość kolumn dobierz do potrzeb pracy. [2]
+1. **Reorder** – przestaw sceny, jeśli informacja, decyzja lub konsekwencja pojawia się w niewłaściwym momencie.
+2. **Combine** – połącz sceny, które wykonują po jednej małej pracy albo istnieją tylko dla pojedynczej dobrej kwestii.
+3. **Cut** – usuń sceny, których funkcję przejęły inne fragmenty albo które nie zmieniają opowieści.
+4. **Add** – uzupełnij brakujące przygotowanie, decyzję, konsekwencję lub przejście. Redakcja listy nie jest wyłącznie cięciem. [1](#source-1)
 
-### Łączenie i uzupełnianie scen (Truby)
+Sceny porządkuj według **logiki rozwoju historii**, nie tylko chronologii świata. Czasem warto najpierw pokazać skutek, a przyczynę ujawnić później; w innym miejscu konsekwencja musi nastąpić natychmiast, by decyzja zachowała ciężar.
 
-- **Łącz sceny, które powstały tylko dla pojedynczej dobrej kwestii.** Truby zaleca zagęszczanie materiału przy zachowaniu jednej zasadniczej akcji sceny. Po usunięciu zbędnych fragmentów ponownie szukaj luk: redakcja może wymagać dodania sceny, nie tylko cięcia. [1]
+## Oznaczanie wątków
 
-### Zestawianie scen i wątków (Truby)
+Nadaj każdemu głównemu wątkowi prosty kolor albo skrót. Następnie czytaj listę na dwa sposoby:
 
-- **Juxtaposition tworzy znaczenie:** zestawiaj treść scen oraz ich proporcje i tempo. Crosscut buduje suspense albo porównuje linie działań, ujawniając szerszy wzorzec. [1]
+- **w całości** – czy kolejne sceny tworzą narastający ciąg?
+- **osobno dla każdego wątku** – czy dana linia ma własne przygotowanie, rozwój i rezultat?
+
+Sprawdź:
+
+- jak długo wątek znika z tekstu;
+- czy jego powrót wymaga przypomnienia;
+- czy kilka scen z rzędu pełni tę samą funkcję;
+- czy punkt zwrotny jednego wątku wpływa na pozostałe;
+- czy proporcje odpowiadają znaczeniu danego wątku.
+
+**Juxtaposition** pozwala budować znaczenie przez sąsiedztwo scen. Dwie sceny mogą się komentować, kontrastować albo pokazywać różne skutki podobnej decyzji. **Crosscut** może wzmacniać napięcie, porównywać równoległe działania lub ujawniać większy wzorzec. [1](#source-1)
+
+## Lista jako narzędzie redakcji
+
+Jeśli draft już istnieje, najpierw opisz **to, co naprawdę dzieje się na stronie**, a nie to, co miało się wydarzyć według starego planu. Jednozdaniowe streszczenia ujawniają:
+
+- sceny bez wyraźnej zmiany;
+- powtórzone przygotowania;
+- decyzje bez konsekwencji;
+- postacie znikające na długie odcinki;
+- luki między punktem zwrotnym a reakcją bohatera.
+
+Po napisaniu sceny aktualizuj listę, jeżeli jej faktyczna akcja okazała się inna. Plan ma opisywać rozwijającą się historię, a nie zmuszać ją do zachowania nieaktualnej wersji. [1](#source-1)
+
+Powiązane narzędzia: [[Przyczynowość i funkcja scen]], [[Cel sceny, zmiana i konflikt]] oraz [[Reverse Snowflake]].
 
 ## Powiązane artykuły
 
@@ -36,6 +68,5 @@ description: "Zależność dotyczy tagów structure step: odsyłają one do krok
 
 ## Źródła
 
-1. [The Anatomy Of Story - Scene Weave](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
-2. [The Snowflake Method For Designing A Novel](https://www.advancedfictionwriting.com/articles/snowflake-method/)
-
+1. <span id="source-1"></span>[The Anatomy Of Story - Scene Weave](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
+2. <span id="source-2"></span>[The Snowflake Method For Designing A Novel](https://www.advancedfictionwriting.com/articles/snowflake-method/)

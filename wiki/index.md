@@ -15,7 +15,6 @@ Przy porządkowaniu notatek, formatowaniu wyciągniętych informacji oraz techni
 
 - **[[1. Proces pisania|1. Proces pisania]]** – Od wyboru sposobu planowania, przez kończenie pierwszego draftu, po diagnozę i redakcję gotowego materiału.
   - **[[Podstawy pracy]]**
-    - [[Zamierzony efekt, zrozumienie i głos autora]]
   - **[[Planowanie]]**
     - [[Jak wybrać metodę planowania]]
     - [[Proces planowania Truby’ego]]
@@ -107,6 +106,5 @@ Przy porządkowaniu notatek, formatowaniu wyciągniętych informacji oraz techni
     - [[Rytm, składnia i przeplatanie rodzajów treści]]
     - [[Precyzja, zwięzłość i powtórzenia]]
   - **[[Polszczyzna]]**
-    - [[Zapis dialogu]]
+    - [[Wtrącenie narratora a granice zdania]]
     - [[Szyk zdania, znaczenie i rozkład informacji]]
-
