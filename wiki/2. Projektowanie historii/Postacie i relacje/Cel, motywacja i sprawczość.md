@@ -42,6 +42,8 @@ Cel określa kierunek działania, a motywacja jego znaczenie dla postaci. Want, 
     - Idź **głębiej**, nie szerzej:
     - **Jak wygląda? → Czego chce? → Co ją zraniło? → W jakie Lie wierzy? → Gdzie sobie przeczy? → Jak musi się zmienić? → Jak jej konkretne wybory tworzą plot?**
 
+Odrębne narzędzie stanowi rozróżnienie [[Wartości, ambicje i cele postaci|wartości, ambicji i konkretnych celów]]. Pomaga sprawdzić, czy zwrot akcji zmienił fundament motywacji, czy tylko sposób jego realizacji.
+
 ### Warstwy motywacji (Motivation Triangle)
 
 - **Layer motivations – jedna motywacja to zwykle za mało.** [4](#source-4)
@@ -61,6 +63,7 @@ Cel określa kierunek działania, a motywacja jego znaczenie dla postaci. Want, 
 
 ## Powiązane artykuły
 
+- [[Wartości, ambicje i cele postaci]]
 - [[Przeszłość, Ghost i wewnętrzne tarcie]]
 - [[Postacie i relacje|Mapa podkategorii]]
 

@@ -8,6 +8,7 @@ description: "Mapa artykułów w części „Postacie i relacje”."
 ## Mapa podkategorii
 
 - [[Cel, motywacja i sprawczość]]
+- [[Wartości, ambicje i cele postaci]]
 - [[Przeszłość, Ghost i wewnętrzne tarcie]]
 - [[Profil emocjonalny i sposób reagowania]]
 - [[Przemiana i bohater niezłomny]]

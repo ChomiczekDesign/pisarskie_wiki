@@ -27,6 +27,8 @@ Snowflake rozwija powieść **od ogółu do szczegółu**. Zamiast przechodzić 
 - **Rozwijaj tylko tyle, ile daje ci pewność potrzebną do pisania.** Możesz zatrzymać się po akapicie i zarysach postaci, napisać kilka scen, a potem wrócić.
 - **Nie myl dokumentu projektowego z tekstem promocyjnym.** Synopsis dla autora zawiera zakończenie; opis dla czytelnika ma wzbudzić ciekawość.
 
+Przy rozwijaniu zarysu lub pełniejszego profilu postaci pomocne jest rozróżnienie [[Wartości, ambicje i cele postaci|wartości, ambicji i konkretnych celów]]. Ułatwia opisanie motywacji również wtedy, gdy wydarzenia zmieniają bieżący cel bohatera. To dodatkowe narzędzie do pracy nad profilem, nie nowy obowiązkowy krok Snowflake.
+
 ## Kiedy wybrać Snowflake
 
 Metoda pomaga osobom, które:
@@ -42,6 +44,7 @@ Może przeszkadzać, jeśli kolejne streszczenia odbierają ci energię do pisan
 
 ## Powiązane artykuły
 
+- [[Wartości, ambicje i cele postaci]]
 - [[Proces planowania Truby’ego]]
 - [[Pięć punktów przemiany i model 15 scen]]
 - [[Planowanie|Mapa podkategorii]]
