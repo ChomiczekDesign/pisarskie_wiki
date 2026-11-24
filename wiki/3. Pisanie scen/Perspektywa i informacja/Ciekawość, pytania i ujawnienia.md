@@ -19,6 +19,16 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 - **Oddziel własną wiedzę o historii od tego, co znalazło się na stronie.** Test diagnostyczny: czy odbiorca potrafi śledzić uczestników, miejsce, upływ czasu, istotne zmiany położenia, dynamikę relacji, cel i stawkę na podstawie dotychczasowego tekstu? Rozpoznaj, czego jeszcze ma nie wiedzieć, a czego potrzebuje, by w ogóle zadać zamierzone pytanie. Samo istnienie odpowiedzi w notatkach autora nie zapewnia orientacji. [1](#source-1)
 
+- **Establishing shot jako minimum orientacji:** gdzie jesteśmy, kto uczestniczy, jaki jest ton sytuacji i na czym skupić uwagę? Wiebe ujmuje osadzenie sceny jako uwolnienie odbiorcy od zgadywania podstaw, żeby mógł śledzić właściwy problem. **Adaptacja do prozy:** odpowiedzi mogą wynikać z ruchu, dialogu, perspektywy i pojedynczego detalu; nie wymagają panoramy ani czterech zdań ekspozycji. Przy celowej dezorientacji określ, którą z tych informacji odbiorca ma dopiero odkryć. [5](#source-5)
+
+### Hak, przewidywanie i punkt odniesienia (Wiebe – adaptacja pisarska)
+
+- **Daj odbiorcy rozpoznawalną niewiadomą.** Hak nie musi podbijać sensacji: pokaż dostatecznie dużo, by czytelnik wiedział, o co pyta, ale pozostaw istotną odpowiedź otwartą. W przykładzie Dana Pinka zapowiedź wstydliwego wyznania uruchamia oczekiwanie poważnego przewinienia, a przyznanie, że poszedł na studia prawnicze, zamyka pytanie i zmienia ton na humorystyczny. Mechanizm projektowy: punkt odniesienia → przewidywanie → odchylenie → zrozumiała odpowiedź. To nie nakaz, by wszystkie historie lub sceny kończyć twistem. [5](#source-5)
+
+- **Sensory anchor łączy konkret z pytaniem o zdarzenie.** „Wszystko zaczęło się od zapachu benzyny” daje uchwytny bodziec i kieruje uwagę ku jego przyczynie oraz skutkom. Sam dowolny zapach nie tworzy haka – musi mieć znaczenie w tej historii. Przy pierwszych zdaniach sprawdź osobno: czy wiadomo dość, by podążać za sytuacją, i czy pozostaje coś, co chce się poznać? [5](#source-5)
+
+**Kontekst psychologiczny – nasze doprecyzowanie:** pojęcie predictive processing odnosi się do modeli przewidywania i aktualizowania interpretacji na podstawie napływających danych. Wiebe wykorzystuje je jako soczewkę storytellingową. To nie dowód, że każda przewidywalność nudzi, a każdy zwrot lub beat dostarcza określonej „dawki dopaminy”. Przewidywalny wynik może nadal angażować przez drogę, koszt i znaczenie dla postaci. [5](#source-5) [6](#source-6)
+
 ### Aktywność odbiorcy i pętle ciekawości
 
 - **Odbiorca ma przeżywać i rozwiązywać zagadkę.** Selekcja wydarzeń daje doświadczenie życia postaci; ujawnianie i ukrywanie informacji angażuje go w odgadywanie, kim postać jest i co robi. [2](#source-2)
@@ -74,3 +84,5 @@ Odkrycie może polegać także na odczytaniu przez odbiorcę sensu, którego boh
 2. <span id="source-2"></span>[The Anatomy Of Story - Organic Story and Writing Process](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
 3. <span id="source-3"></span>[Curiosity Loops](https://youtu.be/WyDkyxxX0Ag?si=X59qzKD1DZ4lWO0F)
 4. <span id="source-4"></span>[The Anatomy Of Story - Revelations Sequence](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
+5. <span id="source-5"></span>[The Psychology of Storytelling That Will Change Your Life – Joanna Wiebe](https://www.youtube.com/watch?v=oCnxnaVg0bY)
+6. <span id="source-6"></span>[Whatever next? Predictive brains, situated agents, and the future of cognitive science – Andy Clark (2013)](https://doi.org/10.1017/S0140525X12000477)

@@ -42,6 +42,8 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
     - Zamiast podawać fakt, pokaż **ślad, jaki ten fakt zostawił w postaci**.
     - _Przykład:_ nie „10 lat temu armia zdobyła miasto”, tylko „czasem nadal czuję zapach popiołu”.
 
+- **Zwiąż potrzebną informację z powodem, by ją śledzić – sugar coating (Wiebe, adaptacja pisarska).** Reguła świata może ujawnić się w sporze o jej użycie, procedura – w działaniu konkretnej osoby, a historia miejsca – w konflikcie, który nadal z niej wynika. Odbiorca ma wówczas nie tylko informację, lecz także sytuację nadającą jej znaczenie. **Granica:** dopisany obok żart lub dramat może przejąć uwagę i przesłonić właściwą treść. Łącz funkcje, zamiast traktować rozrywkę jako automatyczną gwarancję zapamiętania; badania nad uczeniem się nie są bezpośrednim pomiarem odbioru powieści. [8](#source-8) [9](#source-9)
+
 ### Zwięzłe pokazywanie i obrazowy skrót
 
 - **Pokazywanie nie musi być dłuższe od opowiadania; skrót także może wywoływać konkretne wrażenie.** Gdy pełna relacja spowalnia tekst, wróć do zwięzłego przekazania wydarzeń i wybierz słowa oraz szczegóły, które przywołają doświadczenie. Nie trzeba odtwarzać całej drogi od łóżka do biura, by czytelnik odczuł spóźnienie i roztrzęsienie bohatera. Zakres dobierz do konstrukcji, tempa i fabuły większej całości. [4](#source-4)
@@ -82,3 +84,5 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 5. <span id="source-5"></span>[Blow by Blow? – Emma Darwin](https://emmadarwin.substack.com/p/blow-by-blow)
 6. <span id="source-6"></span>[Free Indirect Style: what it is and how to use it – Emma Darwin](https://emmadarwin.substack.com/p/free-indirect-style-what-it-is-and)
 7. <span id="source-7"></span>[Lazy writing. Jak pisać, by się nie nudzili część 1](https://www.wspolnymi-silami.pl/2019/11/lazy-writing-jak-pisac-by-sie-nie.html?utm_source=chatgpt.com)
+8. <span id="source-8"></span>[The Psychology of Storytelling That Will Change Your Life – Joanna Wiebe](https://www.youtube.com/watch?v=oCnxnaVg0bY)
+9. <span id="source-9"></span>[Seductive Details, Cognitive Load, and Learning Outcomes – Chao Cheng i współautorzy (2026)](https://doi.org/10.1007/s10648-025-10099-z)

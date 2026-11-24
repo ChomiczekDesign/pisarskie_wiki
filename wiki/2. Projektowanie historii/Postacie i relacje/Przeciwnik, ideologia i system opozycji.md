@@ -10,6 +10,8 @@ description: "Zależność strukturalna: „necessary” oznacza dopasowanie do 
 - **Najpierw dobierz rodzaj oporu do historii.** Antagonista to funkcja – przeszkoda wobec celu protagonisty. Może nią być natura, bezosobowy system, niepojęta istota, rywal lub świadomy przeciwnik ideowy. W modelu filmu „villain” oznacza ten ostatni wariant: kogoś, kto aktywnie narzuca własną wizję rzeczywistości. [1](#source-1)
     - Nie każda opowieść potrzebuje takiego konfliktu. Możesz pisać walkę z katastrofą albo jednoznaczne dobro przeciw złu; nie musisz dodawać traumy dla pozorów głębi.
 
+- **Przełóż ogólną przeszkodę na doświadczane skutki i historię niepowodzeń – adaptacja „mega mean mouse” Wiebe.** Ustal ciąg konsekwencji problemu, warunki podtrzymujące go, wcześniejsze próby rozwiązania i przyczyny ich nieskuteczności. Zamiast samego „panuje chaos” pokaż, co odbiera konkretnej osobie i dlaczego dotychczasowa metoda nie pomaga. To narzędzie rozpoznawalnej stawki, nie obowiązek dokładania osobowego złoczyńcy lub eskalowania wszystkiego do katastrofy. Marketingowe „obwiniaj siły zewnętrzne” nie znosi sprawczości ani odpowiedzialności bohatera. [3](#source-3)
+
 ### Necessary opponent (Truby)
 
 **Zależność strukturalna:** „necessary” oznacza dopasowanie do weakness i need tego konkretnego hero. Bez ustalonej słabości, celu i linii przemiany nie da się ocenić tej szczególnej funkcji przeciwnika.
@@ -58,3 +60,4 @@ description: "Zależność strukturalna: „necessary” oznacza dopasowanie do 
 
 1. <span id="source-1"></span>[Why Modern Fantasy Villains Are So Pathetic](https://youtu.be/2e8mI7Ynnbw?si=Z_Pe-Av-PLkBe1L0)
 2. <span id="source-2"></span>[The Anatomy Of Story - Opponent and Four-Corner Opposition](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
+3. <span id="source-3"></span>[The Psychology of Storytelling That Will Change Your Life – Joanna Wiebe](https://www.youtube.com/watch?v=oCnxnaVg0bY)

@@ -17,6 +17,12 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 - **False endings u Truby’ego:** premature – zbyt wczesne desire/self-revelation lub niewiarygodne działanie przerywa rozwój; arbitrary – historia po prostu się urywa; closed – sugeruje ostateczne ustanie pragnień i pełną pewność dalszego życia. [2](#source-2)
 
+### Klamra i spełnienie obietnicy z odmianą (Wiebe – adaptacja pisarska)
+
+- **Bookending: wróć do elementu początku z nowym znaczeniem.** Może to być obraz, pytanie lub przekonanie, którego ponowne pojawienie się pozwala zobaczyć emocjonalną zmianę. Ustal, co w finale zostało inaczej zrozumiane, a nie tylko powtórzone. Test Wiebe: czy po usunięciu powrotu znika ważne rozstrzygnięcie, czy tylko ozdobnik? Klamra jest jednym ze sposobów domknięcia, nie obowiązkiem każdej historii. [3](#source-3)
+
+- **Możesz spełnić pragnienie odbiorcy, zmieniając oczekiwany sposób realizacji.** W przywołanym przez Wiebe *Shreku* spełnia się obietnica miłości, lecz finał odwraca wzorzec przemiany w piękną ludzką postać: Fiona staje się ogrzycą. Czytelnik może po fakcie zobaczyć sens wcześniejszej drogi, choć szczegół rozwiązania go zaskoczył. **Nasze rozróżnienie:** ten przykład pokazuje spełnienie obietnicy i odwrócenie konwencji; nie każda taka niespodzianka jest już kompozycyjną klamrą. [3](#source-3)
+
 ### Ponowny odczyt i zakończenie otwarte na dalsze znaczenia (Truby)
 
 - **Never-ending story zmienia się przy ponownym odbiorze.** Koniec kieruje do początku, gdzie znane szczegóły można odczytać w świetle finału. [2](#source-2)
@@ -34,3 +40,4 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 1. <span id="source-1"></span>[These 10 signs predict 90% of failed fantasy novels](https://youtu.be/OWiMIZbXO7M?si=lPBTiyok3LML0OCE)
 2. <span id="source-2"></span>[The Anatomy Of Story - Closings and Never-Ending Story](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
+3. <span id="source-3"></span>[The Psychology of Storytelling That Will Change Your Life – Joanna Wiebe](https://www.youtube.com/watch?v=oCnxnaVg0bY)

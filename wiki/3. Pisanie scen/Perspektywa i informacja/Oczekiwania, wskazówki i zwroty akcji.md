@@ -54,6 +54,8 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
     - Ale jeśli **nigdy nie wpływa na późniejsze wydarzenia**, to nie jest setup – to martwy detal.
     - Payoff może być odległy, nawet bardzo, ale musi istnieć.
 
+- **Akcent zarządza oczekiwaniem – strzelba Czechowa w ujęciu Wiebe.** Mocno wyróżniony szczegół zachęca odbiorcę do szukania jego dalszego znaczenia; jeśli sugeruje pytanie lub rozwiązanie, uwzględnij odpowiednie domknięcie. Funkcją może być także charakterystyka, atmosfera, temat lub kontrast – nie każda rzecz ma później zadziałać jako narzędzie fabularne. **Nasze doprecyzowanie psychologiczne:** nie uzasadniaj tej zasady rzekomo powszechną przewagą pamięci niedokończonych zadań. Metaanaliza Ghibelliniego i Meiera (2025) nie wykazała ogólnej takiej przewagi; tendencja do podejmowania przerwanych zadań i ich zapamiętywanie to odrębne zjawiska. Związek z obietnicą narracyjną jest zastosowaniem warsztatowym, nie wnioskiem z tych badań. [4](#source-4) [5](#source-5)
+
 ## Powiązane artykuły
 
 - [[Ciekawość, pytania i ujawnienia]]
@@ -64,3 +66,5 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 1. <span id="source-1"></span>[Schema Theory - Expectations and Interpretation](https://youtu.be/vKPipUauewo?si=1ghGytQhGi1yTaqF)
 2. <span id="source-2"></span>[Foreshadowing - Technika zapowiedzi](https://www.wspolnymi-silami.pl/2022/06/kiedy-powiesc-dziaa-technika.html)
 3. <span id="source-3"></span>[A draft usually stalls because the story was never pointed anywhere.](https://youtu.be/82i5iBWX6Z4?si=NbR5QAWUQQDHGR9I)
+4. <span id="source-4"></span>[The Psychology of Storytelling That Will Change Your Life – Joanna Wiebe](https://www.youtube.com/watch?v=oCnxnaVg0bY)
+5. <span id="source-5"></span>[Interruption, recall and resumption – Romain Ghibellini, Beat Meier (2025)](https://www.nature.com/articles/s41599-025-05000-w)

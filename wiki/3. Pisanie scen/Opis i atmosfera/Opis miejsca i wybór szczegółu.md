@@ -17,6 +17,12 @@ Opis tworzy orientację, doświadczenie i oczekiwania. W narracji ograniczonej w
 
 - **Cztery powody opisywania:** przygotowanie późniejszego wykorzystania, interesujący szczegół, orientacja w przestrzeni oraz własna przyjemność autora i świadomy wybór stylu. Układ miasta może wymagać opisu, choć nie ujawnia szczególnej emocji. Nie trzeba maksymalizować przystępności dla każdego odbiorcy kosztem własnego głosu. [1](#source-1)
 
+### Konkret jako nośnik uwagi i pamięci (Wiebe – adaptacja pisarska)
+
+- **Sprawdź, co odbiorca zapamięta zamiast tego, na czym Ci zależy.** W anegdocie Wiebe po abstrakcyjnym komunikacie o marketingu odbiorcy pamiętają kurczaka z nazwy firmy. To wyrazisty obraz, ale nie najważniejsza wiadomość. W prozie pytaj, czy najsilniejszy konkret prowadzi uwagę ku zamierzonemu doświadczeniu, czy przypadkiem zagłusza relację, stawkę lub odkrycie. [7](#source-7)
+
+- **Dual coding wyjaśnia możliwą korzyść konkretu, nie przelicznik skuteczności.** Wyobrażalne słowo może uruchamiać reprezentację językową i obrazową; badania pamięci słów pokazują znaczenie także kontekstu i sposobu przetwarzania. Nie wynika z tego, że jest „dokładnie dwa razy lepiej pamiętane”, że abstrakcja nie działa lub że każdy czytelnik tworzy taki sam obraz. Test „co widzę lub odczuwam po usłyszeniu zdania?” pomaga dobrać szczegół tam, gdzie potrzebne jest doświadczenie; nie uzasadnia przepisywania wszystkich abstrakcyjnych zdań ani obowiązku dodawania koloru, faktury i połysku. [7](#source-7) [8](#source-8)
+
 ### Sensoryka, konkret i perspektywa
 
 - **Buduj selektywne doświadczenie zmysłowe, nie komplet pięciu zmysłów ani sam obraz wzrokowy.** [2](#source-2)
@@ -108,3 +114,5 @@ Opis tworzy orientację, doświadczenie i oczekiwania. W narracji ograniczonej w
 4. <span id="source-4"></span>[Less, more, and Apollo in his chariot – Emma Darwin](https://emmadarwin.substack.com/p/less-more-and-apollo-in-his-chariot)
 5. <span id="source-5"></span>[The Lazy Way to Better Worldbuilding](https://youtu.be/CKmMKtzUxfQ?si=EJSKLxe8nx6qXDED)
 6. <span id="source-6"></span>[Fix Your Furniture Catalog Fantasy Writing Style](https://youtu.be/709mcB21V_k?si=m3RS9zahr_6teQzO)
+7. <span id="source-7"></span>[The Psychology of Storytelling That Will Change Your Life – Joanna Wiebe](https://www.youtube.com/watch?v=oCnxnaVg0bY)
+8. <span id="source-8"></span>[Concreteness and levels of processing – Benjamin A. Anderson, Scott A. Peterson (2022)](https://doi.org/10.1080/09658211.2022.2120622)
