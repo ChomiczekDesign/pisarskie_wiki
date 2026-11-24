@@ -53,6 +53,10 @@ Pierwsze spotkanie kieruje uwagę ku wybranym cechom i tworzy oczekiwanie, czego
     - Wybierz **1–2 charakterystyczne cechy**, najlepiej takie, które mają znaczenie dla historii, osobowości albo arcu.
     - Unikalność powinna przede wszystkim wynikać z **sposobu myślenia, pragnień, lęków i zachowania**.
 
+- **Jedna–dwie cechy to punkt wyjścia do selekcji, nie sztywny limit opisu.** Dobierz ich liczbę do funkcji, tempa i perspektywy; czasem wystarczy zachowanie i sposób mówienia. [3](#source-3)
+
+Jak portret wyglądu może charakteryzować obserwatora, relację i świat oraz jak akcentować szczegóły, rozwija [[Opis postaci, perspektywa i relacje]].
+
 <u>Dobra introdukcja daje powód, by obserwować tę osobę, i ustawia sposób czytania jej miejsca w historii.</u>
 
 ## Powiązane artykuły
@@ -67,3 +71,4 @@ Pierwsze spotkanie kieruje uwagę ku wybranym cechom i tworzy oczekiwanie, czego
 
 1. <span id="source-1"></span>[Writing Character Introductions (which don't suck) – Hello Future Me](https://www.youtube.com/watch?v=7siUON2DmhU)
 2. <span id="source-2"></span>[Worst Description Mistakes](https://www.youtube.com/watch?v=ukaGjj0ohZQ)
+3. <span id="source-3"></span>[Great Character Descriptions – Hello Future Me](https://www.youtube.com/watch?v=vL0q15Kkews)

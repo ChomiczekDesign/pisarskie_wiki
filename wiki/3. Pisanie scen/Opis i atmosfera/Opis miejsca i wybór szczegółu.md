@@ -7,6 +7,8 @@ description: "Opis tworzy orientację, doświadczenie i oczekiwania. W narracji 
 
 Opis tworzy orientację, doświadczenie i oczekiwania. W narracji ograniczonej wybór detali wynika z postaci; narrator wszechwiedzący może organizować obraz także z własnej perspektywy. Sposoby regulowania bliskości omawia [[Techniki zbliżania i bezpośrednia myśl|Dystans narracyjny, perspektywa i interiority]], a przestrzenne środki budowania nastroju – [[Atmosfera, przestrzeń i orientacja|Atmosfera, przestrzeń i orientacja]].
 
+Zastosowania do wyglądu ludzi, subiektywnego portretu i opisu relacji rozwija [[Opis postaci, perspektywa i relacje]].
+
 ### Funkcja opisu i doświadczenie miejsca
 
 - **Nie próbuj odtworzyć w głowie czytelnika dokładnej kopii własnego obrazu.** Opis buduje zarówno przestrzeń fizyczną, jak i to, co odbiorca ma odczuć, zapamiętać oraz uznać za istotne. Wrażenie może być proste: zatłoczona droga, pusty zamek, stary dom – nie musi być głęboką metaforą. [1](#source-1)
