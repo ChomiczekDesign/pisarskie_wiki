@@ -24,6 +24,8 @@ Przykład zastosowania. Ród strażników domaga się wyłączności na pobór o
 
 <u>Decyzja polityczna zyskuje stawkę, gdy widać, czyjego poparcia potrzebuje władca, jakie ma alternatywy i kto zapłaci za porozumienie.</u>
 
+Władca może zebrać wystarczające poparcie, a nadal zależeć od tego, co podwładni mówią mu o kraju. Tę zależność rozwija [[Czytelność administracyjna i władza|czytelność administracyjna]].
+
 ## Źródła
 
 1. <span id="source-1"></span>[Keeping Power – Oren Litwin](https://orenlitwin.com/2018/04/20/keeping-power/)

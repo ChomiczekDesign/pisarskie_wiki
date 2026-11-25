@@ -33,6 +33,8 @@ Jeśli konflikt zależy od tego, czyje poparcie jest rozstrzygające i jak łatw
 
 - **Moralna złożoność może pozostawiać powód do zaangażowania.** Dobra subfrakcja we wrogim imperium albo ludzie próbujący zmienić skorumpowaną instytucję dają więcej możliwości niż jednolite obozy. Powyższe zastosowanie do prozy jest adaptacją redakcyjną; procedura przygotowania przygody pozostaje w *GM Advice*. [2](#source-2)
 
+Gdy decyzja zależy od informacji o poddanych lub zasobach, zobacz [[Czytelność administracyjna i władza|czytelność administracyjną]].
+
 ## Powiązane artykuły
 
 - [[Bogowie, religia i relacje]]

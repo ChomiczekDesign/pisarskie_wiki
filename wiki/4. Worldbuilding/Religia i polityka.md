@@ -10,3 +10,4 @@ description: "Mapa artykułów w części „Religia i polityka”."
 - [[Bogowie, religia i relacje]]
 - [[Polityka, władza i frakcje]]
 - [[Koalicja i utrzymanie władzy]]
+- [[Czytelność administracyjna i władza]]
