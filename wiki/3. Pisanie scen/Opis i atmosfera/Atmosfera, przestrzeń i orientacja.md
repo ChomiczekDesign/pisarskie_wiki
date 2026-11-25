@@ -64,6 +64,8 @@ description: "Osobiste opracowanie narzędzi i obserwacji przydatnych w pracy na
 
 [[Terror, niepewność i anomalia|Budowanie terroru]] rozwija znaczące braki, naruszenie znajomego i granic ciała oraz dawkowanie ujawnień.
 
+Zestawienie codzienności z osobliwością miejsca może też budować [[Humor z perspektywy postaci i reguł świata|lekki komizm]].
+
 ## Powiązane artykuły
 
 - [[Opis miejsca i wybór szczegółu]]
