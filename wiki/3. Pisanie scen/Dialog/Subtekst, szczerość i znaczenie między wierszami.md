@@ -51,6 +51,12 @@ Przy problemie z zapisem warto więc najpierw sprawdzić decyzję autora i trafn
 
 To skala, a nie trzy szczelne szufladki. Postać może rozumieć własne zachowanie tylko częściowo i inaczej ujawniać je wobec różnych osób. [4](#source-4)
 
+### Ile wiedzą rozmówcy i czytelnik
+
+**Przydziel wiedzę o emocji osobno.** Postać może skutecznie ukryć złość przed rozmówcą, a czytelnik widzi, co jego słowa ją kosztują. Możesz też pozwolić rozmówcy rozpoznać uczucie wcześniej niż odbiorcy albo przedstawić postać, która sama dopiero próbuje pojąć, dlaczego tak reaguje. Wybierz ten podział zależnie od tego, czy czytelnik ma śledzić wysiłek ukrywania, powód reakcji czy odkrycie dokonywane przez samą postać. [6](#source-6)
+
+**Daj odbiorcy podstawę do zadania pytania.** Niewiedza o uczuciu podtrzymuje ciekawość, gdy czytelnik rozumie sytuację i ma szczegół, który może zinterpretować. W scenie wyznania albo nagłego ciosu wspólna, natychmiastowa jasność też może być zamierzonym efektem. Po wybraniu poziomu jasności sprawdź, czy objaśnienie w dialogu, myśli lub narracji wnosi kolejną informację. [6](#source-6)
+
 ### Ciało może podważyć maskę, a myśl może należeć do maski
 
 Fawkes przytacza zdanie Nancy Kress:
@@ -175,3 +181,4 @@ To łączy subtekst z [[Ciekawość, pytania i ujawnienia|projektowaniem ujawnie
 3. <span id="source-3"></span>[The Anatomy Of Story - Scene Construction](https://lubimyczytac.pl/ksiazka/4848756/the-anatomy-of-story-22-steps-to-becoming-a-master-storyteller)
 4. <span id="source-4"></span>[How to Write What’s Not Written (Subtext) – September C. Fawkes](https://www.septembercfawkes.com/2015/03/how-to-write-whats-not-written-subtext.html)
 5. <span id="source-5"></span>[SHOW, DON'T TELL (is a lie) | On Writing – Hello Future Me](https://www.youtube.com/watch?v=UUjUs5hAMHQ)
+6. <span id="source-6"></span>[How to Craft Engaging Dialogue Exchanges – Peter Gelfan](https://writershelpingwriters.net/2019/08/how-to-craft-engaging-dialogue-exchanges/)

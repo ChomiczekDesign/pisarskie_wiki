@@ -26,6 +26,12 @@ Kto narzuca tempo rozmowy i czyje warunki przyjmują pozostali, rozwija [[Status
     - Zmianą może być samo uświadomienie; czytelnik musi jednak ją dostrzec. Film zaleca **pokazanie nowego kierunku przez wybór lub działanie**.
     - _Przykład:_ rada odmawia pomocy → bohater nie tylko „rozumie, że jest sam”, ale od razu zmienia plan i idzie szukać pomocy w półświatku.
 
+### Emocja, która organizuje scenę
+
+- **Ustal, czego postać chce od rozmowy i co sprawia, że nadal jej na tym zależy.** Z tego wynikają wybór słów, działanie i odpowiedź na zachowanie drugiej osoby. Przy silnym uczuciu postać może zmienić temat, urwać wypowiedź albo skupić się na sprawie pozornie pobocznej. [3](#source-3)
+- **Wybierz reakcję ze względu na efekt sceny i historię tej osoby.** Na wieść o zamknięciu warsztatu właścicielka pyta, gdzie w poniedziałek mają się zgłosić jej uczniowie. Jeśli wcześniej obiecała im miejsce, pytanie pokazuje, kogo uważa za swoją odpowiedzialność. Taki wybór może zaskoczyć w pierwszej chwili i wydać się oczywisty po przypomnieniu obietnicy. [3](#source-3)
+- **Daj emocji skutek w wymianie.** W przykładzie pytanie o uczniów może zmusić urzędnika do przyznania, że decyzja w ogóle ich nie uwzględnia. Czytelnik odczytuje przeżycie właścicielki z tego, co dostrzega i próbuje ochronić. Przy redakcji sprawdź, czy dopowiedzenie w narracji zmienia sens tej reakcji, czy jedynie ją nazywa. Zakres wiedzy czytelnika rozwija [[Subtekst, szczerość i znaczenie między wierszami|część o subtekście]]. [3](#source-3)
+
 ### Wejście, wyjście i osadzenie w miejscu
 
 - **Ground the conversation – nie pozwól dialogowi odbywać się w „white room”.** [1](#source-1)
@@ -58,3 +64,4 @@ Kto narzuca tempo rozmowy i czyje warunki przyjmują pozostali, rozwija [[Status
 
 1. <span id="source-1"></span>[Dialogue Mistakes to Avoid](https://youtu.be/4Jyi83uVQic?si=VP0f1cflOhORo8Xz)
 2. <span id="source-2"></span>[Uta Hagen - Characters in Action](https://youtu.be/eCNbsAcKdQ8?si=3Z99A6prCE0Kqkm_)
+3. <span id="source-3"></span>[How to Craft Engaging Dialogue Exchanges – Peter Gelfan](https://writershelpingwriters.net/2019/08/how-to-craft-engaging-dialogue-exchanges/)
