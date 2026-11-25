@@ -21,6 +21,8 @@ description: "Zakres: samodzielna soczewka pisania osób i instytucji, dla któr
 
 **Sposób użycia:** traktuj tę kalkulację jako perspektywę konkretnego aktora. Ustal, kiedy chroni swoją pozycję, a kiedy wybiera inną wartość; w sojuszu sprawdzaj zarówno wspólną korzyść, jak i zmianę samodzielności partnerów.
 
+Jeśli konflikt zależy od tego, czyje poparcie jest rozstrzygające i jak łatwo zastąpić stronnika, zobacz [[Koalicja i utrzymanie władzy|teorię selektoratu w praktyce]].
+
 ### Trzy frakcje i subfrakcje (adaptacja pisarska modelu good–bad–ugly)
 
 - **Buduj politykę przez interesy stron, nie same etykiety moralne.** Słabsza strona potrzebuje pomocy, siła z inicjatywą eskaluje konflikt, a trzeci uczestnik ma interes, którego poparcie lub neutralność może przechylić wynik. Żadna z ról nie wymaga jednolitej oceny moralnej. [2](#source-2)
