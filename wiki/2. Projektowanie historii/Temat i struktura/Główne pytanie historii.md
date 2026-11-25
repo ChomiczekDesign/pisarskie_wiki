@@ -27,29 +27,11 @@ Z przykładów Ingermansona można wyciągnąć trzy użyteczne kierunki. To **n
 
 Przykład ma tu pokazywać **rodzaj komplikacji**, nie dostarczać gotowego wzoru fabuły. Własne pytanie powinno wynikać z konkretnego [[Cel, motywacja i sprawczość|celu i motywacji postaci]] oraz [[Konflikt, adaptacja i koszt zwycięstwa|kosztu wpisanego w konflikt]].
 
-## Jak zbudować mocniejsze pytanie
-
-1. **Zapisz prostą wersję.** Czego bohater chce i czy może to osiągnąć?
-2. **Sprawdź, co wydaje się przewidywalne.** Czy czytelnik prawdopodobnie wierzy w sukces, porażkę albo określone rozwiązanie gatunkowe?
-3. **Znajdź ważniejszą niepewność.** Co bohater może stracić, w kogo może się zmienić albo dlaczego może przestać chcieć celu?
-4. **Połącz komplikację z dotychczasową historią.** Koszt powinien wyrastać z konfliktu, relacji, cechy postaci lub sposobu osiągania celu, a nie pojawiać się wyłącznie jako finałowy dodatek.
-5. **Zasiej sygnały.** Czytelnik nie musi od razu znać pełnej postaci pytania, ale powinien mieć materiał pozwalający je stopniowo rozpoznać.
-6. **Sprawdź finał.** Rozstrzygnięcie powinno odpowiadać zarówno na pytanie o wynik, jak i na ważniejszą niepewność odkrytą po drodze.
-
 ## Pytanie może dojrzewać podczas lektury
 
 Na początku czytelnik może widzieć jedynie prostą wersję pytania. Kolejne wydarzenia pokazują mu, że prawdziwy problem jest trudniejszy. Nie trzeba wypowiadać go wprost – udział w jego odkrywaniu może wzmacniać zaangażowanie. [1](#source-1)
 
 Nie oznacza to jednak ukrywania podstawowego kontekstu. Odbiorca powinien rozumieć, **czego bohater chce, co ryzykuje i dlaczego kolejne zdarzenia zmieniają sytuację**. Więcej o tej różnicy znajdziesz w [[Ciekawość, pytania i ujawnienia|artykule o ciekawości i ujawnieniach]].
-
-## Zastosowanie i granice
-
-- **Podczas planowania** użyj Story Question do sprawdzenia, jaka niepewność może prowadzić czytelnika przez większą część historii.
-- **Podczas redakcji** sięgnij po nie, gdy konflikt rośnie, lecz wynik kolejnych prób nadal wydaje się oczywisty.
-- **Nie wymuszaj moralnego upadku ani straty.** Kosztem może być zmiana relacji, tożsamości, pragnienia albo sposobu patrzenia na cel.
-- **Nie potrzebujesz finałowego twistu.** Pogłębienie pytania może być widoczne długo przed zakończeniem.
-- **Nie utożsamiaj go z tajemnicą świata.** Wielka zagadka może napędzać ciekawość, ale Story Question dotyczy tutaj przede wszystkim losu bohatera i jego dążenia.
-- **Nie wymaga całej metody Snowflake.** To samodzielne narzędzie diagnostyczne.
 
 ## Powiązane artykuły
 

@@ -60,9 +60,8 @@ To skala, a nie trzy szczelne szufladki. Postać może rozumieć własne zachowa
 
 ### Ile wiedzą rozmówcy i czytelnik
 
-**Przydziel wiedzę o emocji osobno.** Postać może skutecznie ukryć złość przed rozmówcą, a czytelnik widzi, co jego słowa ją kosztują. Możesz też pozwolić rozmówcy rozpoznać uczucie wcześniej niż odbiorcy albo przedstawić postać, która sama dopiero próbuje pojąć, dlaczego tak reaguje. Wybierz ten podział zależnie od tego, czy czytelnik ma śledzić wysiłek ukrywania, powód reakcji czy odkrycie dokonywane przez samą postać. [6](#source-6)
-
-**Daj odbiorcy podstawę do zadania pytania.** Niewiedza o uczuciu podtrzymuje ciekawość, gdy czytelnik rozumie sytuację i ma szczegół, który może zinterpretować. W scenie wyznania albo nagłego ciosu wspólna, natychmiastowa jasność też może być zamierzonym efektem. Po wybraniu poziomu jasności sprawdź, czy objaśnienie w dialogu, myśli lub narracji wnosi kolejną informację. [6](#source-6)
+- **Postać, rozmówca i czytelnik mogą wiedzieć o uczuciu co innego.** W rozpisce Gelfana stan emocjonalny może być jawny dla wszystkich, widoczny dla czytelnika mimo udanej maski wobec rozmówcy albo czytelny dla rozmówcy przy niepewności odbiorcy. Postać może też ukrywać emocję przed obiema stronami lub sama jej nie rozumieć. [6](#source-6)
+- **Niewiedza daje miejsce na ciekawość.** Gelfan wskazuje ukrycie uczucia, sugestię, pozorowanie, przesadę, pomniejszanie i reakcję dającą przeciwne wrażenie. Pełna jasność też ma funkcję, np. przy szczęśliwym zakończeniu lub nagłej katastrofie. Gdy sygnały już tworzą subtekst, autor zaleca zaufać czytelnikowi i uważać na dodatkowe objaśnienie w dialogu, myśli lub narracji. [6](#source-6)
 
 ### Ciało może podważyć maskę, a myśl może należeć do maski
 

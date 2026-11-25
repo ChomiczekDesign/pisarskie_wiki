@@ -15,7 +15,7 @@ description: "Jak rozdzielić formalną władzę od pozycji w rozmowie i pokaza�
 
 ## Pozycja budowana przez otoczenie
 
-- **Pozycję postaci może ustanawiać otoczenie – endowment.** Inni urywają żart, wybierają bezpieczniejsze słowa, odsuwają się lub proszą o zgodę. Dzięki temu człowiek nie musi sam zapewniać, że jest groźny lub ważny. Można też zestawić jego własną pozę z tym, że nikt na nią nie reaguje. Drugi wariant to nasze zastosowanie tego samego narzędzia. [1](#source-1)
+- **Pozycję postaci może ustanawiać otoczenie – endowment.** Inni urywają żart, wybierają bezpieczniejsze słowa, odsuwają się lub proszą o zgodę. Dzięki temu człowiek nie musi sam zapewniać, że jest groźny lub ważny. [1](#source-1)
 
 - **Pokazuj stosunek do przestrzeni i przedmiotów.** Ktoś może czuć się przytłoczony salą tronową albo bezceremonialnie potraktować jej przepych. Ten sam człowiek może oddawać pozycję wobec osoby, miejsca lub symbolu, którego przy innych się nie boi. Dobór zachowania działa lepiej, gdy wynika z konkretnego stosunku i celu. [1](#source-1)
 

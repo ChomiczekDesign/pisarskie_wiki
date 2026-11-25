@@ -21,7 +21,7 @@ Zapis wtrącenia wewnątrz wypowiedzi: [[Wtrącenie narratora a granice zdania|k
 
 - **Preferencja Darwin nie jest regułą tej biblioteki.** Autorka woli nieraz działanie przed kwestią od „jęknął”, ale sama nie narzuca tego innym. **Uwaga użytkownika:** nie przyjmujemy tej preferencji jako kierunku redakcji jego prozy. W polskim dopowiedzenie z gestem może wystąpić po kwestii, bez jawnego „on/ona”, np. „Uśmiechnął się miło”. Dobieraj pozycję gestu, czasownik i długość dopowiedzenia do sensu oraz rytmu konkretnej polskiej frazy; nie stosuj automatycznej zamiany. Różnicę między gestem a oznaczeniem mowy oraz zasady zapisu omówiono w notatce źródłowej. [1](#source-1)
 
-- **Jedna czynność może wskazać mówcę i zmienić odczytanie jego słów.** Jeśli po zapewnieniu „Oczywiście, że możesz jechać” Lena chowa kluczyki do kieszeni, czytelnik może przypisać jej kwestię i odczytać sprzeciw. Warunkiem jest jasne powiązanie czynności z mówcą. Jeżeli ruch należy do rozmówcy, neutralne oznaczenie może być czytelniejsze. Wybieraj gesty, które coś zmieniają, bo zapis każdej miny i ruchu spowalnia wymianę. [3](#source-3)
+- **Fizyczna reakcja może ujawnić uczucie i zmniejszyć liczbę potrzebnych dopowiedzeń.** Maurice Broaddus zwraca uwagę na mimikę i postawę towarzyszące słowom. Howard Tayler porównuje to z komiksem, w którym czytelnik widzi jednocześnie dymek i zachowanie postaci. W prozie radzi wybrać spośród tych sygnałów te, które mają największy wpływ na odczytanie zdania, bo opis całego zachowania spowalnia rozmowę. [3](#source-3)
 
 ### Ile dopowiedzeń potrzebuje dialog
 

@@ -5,23 +5,12 @@ description: "Jak spisy, rejestry i nowe sposoby obserwacji zmieniają układ si
 
 # Czytelność administracyjna i władza
 
-Król nakłada podatek na ziemię. Żeby go pobrać, musi jeszcze wiedzieć, gdzie kończą się działki, kto z nich korzysta i kto odpowiada za zapłatę. **Czytelność administracyjna** (*legibility*) określa, na ile instytucja widzi ludzi, zasoby i ich działania w formie, która pozwala jej podjąć decyzję. Oren Litwin proponuje wykorzystać pojęcie Jamesa C. Scotta do budowania konfliktów w fikcji. [1](#source-1) [2](#source-2)
+**Czytelność administracyjna** (*legibility*) to stopień, w jakim instytucja może obserwować działania ludzi. Oren Litwin za Jamesem C. Scottem zaczyna od problemu władcy, który może ustanowić prawo, podatek lub pobór, ale musi jeszcze wiedzieć, jak ludzie na nie reagują. Może zdać się na zaufanych podwładnych albo wykorzystać miejsca skupiające ruch, jak brama poboru ceł. Inną drogą jest zwiększenie samej czytelności społeczeństwa. [1](#source-1) [2](#source-2)
 
-## Ustal, jak informacja dociera do władzy
-
-- **Daj władcy konkretną lukę w wiedzy.** Może znać liczbę wsi, a o zbiorach dowiadywać się wyłącznie od miejscowego zarządcy. Wtedy możliwość działania zależy także od tego, co zarządca widzi i co zdecyduje się przekazać. [1](#source-1)
-- Określ sposób pozyskania wiedzy. Urzędnik może oprzeć się na miejscowym pośredniku, sprawdzać towary przy bramie albo prowadzić rejestr, który umożliwia mu rozpoznanie tej samej osoby przy kolejnej wizycie. Każde rozwiązanie obejmuje inny fragment życia poddanych. [1](#source-1)
-
-## Pokaż, co znika przy upraszczaniu
-
-- **Rejestr wybiera cechy potrzebne instytucji.** W systemie, w którym jedna działka ma jednego zarejestrowanego właściciela, łatwo wskazać płatnika podatku. Trudniej zapisać zwyczaj, zgodnie z którym trzy wsie korzystają z tego samego pastwiska w różnych porach roku. [2](#source-2)
-- **Pomiar może zmienić to, co jest mierzone.** Scott opisuje leśnictwo zorganizowane wokół przewidywalnej produkcji drewna. Las łatwiejszy do oszacowania przynosi korzyść z punktu widzenia tego celu, a mieszkańcy mogą stracić wypas i inne pożytki. W scenie warto pokazać tę stratę w działaniu, np. gdy zmiana granic zamyka bohaterowi drogę na wspólne pastwisko. [2](#source-2)
-
-## Zacznij konflikt, gdy zmienia się widoczność
-
-Nowy spis, forma magii albo instytucja mogą dać komuś wiedzę, której dotąd nie miał. W fikcyjnym porcie magiczny rejestr od razu potwierdza, kto zgłosił ładunek. Kupcom ułatwia udowodnienie własności, a radzie pozwala inaczej rozdzielać opłaty. Spór może się zacząć od tego, kogo zapisy uznają za właściciela wspólnego ładunku i kto ma prawo poprawić wpis. [1](#source-1)
-
-<u>Przy projektowaniu zmiany ustal, kto otrzymuje nową wiedzę, co może dzięki niej zrobić i czyje interesy umykają przyjętym kategoriom.</u>
+- **Ewidencja ułatwia rozpoznanie ludzi i czynności.** Dowód tożsamości pozwala urzędnikowi ustalić, z kim ma do czynienia, a nazwiska ułatwiają rozróżnianie osób w spisie. Litwin zestawia urzędnika przyjeżdżającego z zewnątrz ze wsią, w której ludzie już dobrze się znają. [1](#source-1)
+- **Instytucja może też zmienić to, co chce mierzyć.** W przykładzie niemieckiego leśnictwa regularne nasadzenia upraszczały przewidywanie pozyskania drewna. Litwin przywołuje również przymus osiedlania i różnicę między zbożem, którego plon można oszacować przed żniwami, a roślinami okopowymi, których plon łatwiej ukryć. [1](#source-1)
+- **Mniejsza czytelność ogranicza kontrolę.** Mobilność ludzi i ich majątku pomaga wyjaśnić, dlaczego administracja może mieć trudności z nadzorem i poborem podatków. Podobny mechanizm Litwin wskazuje poza państwem, od norm produkcji w firmie po kontrolę wydatków w związku. [1](#source-1)
+- **Źródłem konfliktu jest zmiana tego, co można obserwować.** Litwin wymienia pierwszy spis ludności, nową instytucję i zmianę technologiczną lub magiczną. Spis odsłania i porządkuje informacje o poddanych, więc opór może dotyczyć samego rejestrowania. Z kolei przykład kryptowalut dotyczy dążenia do mniejszej widoczności transakcji. [1](#source-1)
 
 ## Powiązane artykuły
 

@@ -28,9 +28,9 @@ Kto narzuca tempo rozmowy i czyje warunki przyjmują pozostali, rozwija [[Status
 
 ### Emocja, która organizuje scenę
 
-- **Ustal, czego postać chce od rozmowy i co sprawia, że nadal jej na tym zależy.** Z tego wynikają wybór słów, działanie i odpowiedź na zachowanie drugiej osoby. Przy silnym uczuciu postać może zmienić temat, urwać wypowiedź albo skupić się na sprawie pozornie pobocznej. [3](#source-3)
-- **Wybierz reakcję ze względu na efekt sceny i historię tej osoby.** Na wieść o zamknięciu warsztatu właścicielka pyta, gdzie w poniedziałek mają się zgłosić jej uczniowie. Jeśli wcześniej obiecała im miejsce, pytanie pokazuje, kogo uważa za swoją odpowiedzialność. Taki wybór może zaskoczyć w pierwszej chwili i wydać się oczywisty po przypomnieniu obietnicy. [3](#source-3)
-- **Daj emocji skutek w wymianie.** W przykładzie pytanie o uczniów może zmusić urzędnika do przyznania, że decyzja w ogóle ich nie uwzględnia. Czytelnik odczytuje przeżycie właścicielki z tego, co dostrzega i próbuje ochronić. Przy redakcji sprawdź, czy dopowiedzenie w narracji zmienia sens tej reakcji, czy jedynie ją nazywa. Zakres wiedzy czytelnika rozwija [[Subtekst, szczerość i znaczenie między wierszami|część o subtekście]]. [3](#source-3)
+- **Emocje podtrzymują motywację postaci.** U Gelfana rozum pozwala wybrać drogę, a emocja nadaje dążeniu siłę. Dialog obejmuje wypowiedź i przemilczenie, czynności, myśli, odpowiedzi innych postaci i ton miejsca. Najpierw ustal, jaki efekt ma dać scena, potem dobierz słowa i zachowania wiarygodne dla konkretnej osoby w tych okolicznościach. Silne uczucie może utrudnić sformułowanie nawet prostego zdania. [3](#source-3)
+- **Ważną scenę emocjonalną łatwo osłabić przewidywalną reakcją.** W przykładzie Gelfana kobieta po wiadomości o śmierci ukochanego na chwilę sztywnieje, osuwa się na krzesło, a potem pyta „Z kim był?” albo mówi „To nie tylko moja wina”. Każda z tych odpowiedzi odsłania coś innego. Zaskoczenie działa, gdy czytelnik po chwili potrafi zrozumieć reakcję i zobaczyć, że miała podstawę. [3](#source-3)
+- **Drama vs. Exposition.** Gelfan zaleca wbudować uczucie w dialog i całą scenę, dając czytelnikowi szansę zorientować się, co dzieje się między postaciami. Wiedza autora o emocji służy doborowi ich słów i zachowania. Długi, uporządkowany monolog o uczuciach może przyciągać na scenie teatralnej, a w powieści wydać się wymuszonym objaśnieniem. Autorka lub autor może ujawnić uczucie wprost, jeśli ma ku temu dobry powód. [3](#source-3)
 
 ### Wejście, wyjście i osadzenie w miejscu
 

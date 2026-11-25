@@ -5,24 +5,22 @@ description: "Jak zaprojektować prosty plan antagonisty i zmienić układ sił 
 
 # Intryga polityczna i przewaga informacyjna
 
-Radni zamierzają poprzeć namiestnika. Gdy poznają treść umowy z gminami, jedna z radnych może zgłosić wniosek, który odbierze mu prawo do wydawania zezwoleń. W intrydze politycznej **zdobyta wiedza zmienia to, kto i co może zrobić**. Mechanizm działa zarówno przy dworze, jak i w rodzinie, szkole czy organizacji. [1](#source-1)
+W odcinku *Writing Excuses* **intrygę polityczną określa zmiana układu sił**. Chodzi o to, kto ma wpływ na kogo i na czym ten wpływ polega. Może wynikać z kontroli nad wojskiem lub stanowieniem prawa, ale też z pozycji w małej grupie. Margaret Dunlap przywołuje adaptację *Makbeta*, w której miejsce walki o koronę zajmuje walka o pozycję w szkolnej klasie. [1](#source-1)
 
-## Zaprojektuj plan z perspektywy antagonisty
+## Skok po informację i zmiana przewagi
 
-- Zacznij od celu i **najprostszego rozwiązania dostępnego postaci**. Namiestnik chce zachować uprawnienia do końca sezonu. Wystarczy mu zwykłe głosowanie, o ile rada wierzy w deklarowane poparcie gmin. Jeśli postać podejmuje zawiłe działania, sprawdź, jaką konkretną przeszkodę w ten sposób omija albo co próbuje uratować po niepowodzeniu. [1](#source-1)
-- **Przygotuj korzystny wynik dla kilku prawdopodobnych odpowiedzi.** Namiestnikowi pomaga zarówno szybka uchwała, jak i odroczenie, bo obecne przepisy zostawiają mu uprawnienia do kolejnego posiedzenia, które odbędzie się już po sezonie. Każdy wariant opiera się na określonych warunkach. Pozostaw miejsce na ruch, który wykracza poza oczekiwania postaci i zmusza ją do odpowiedzi. Przy rozpisywaniu głosów przydaje się też [[Koalicja i utrzymanie władzy]]. [1](#source-1)
+- **Intryga może działać jak skok po informację (*a heist of information*).** Mary Robinette Kowal tak opisuje zdobywanie wiedzy, która zmienia pozycję stron. Bohater może szukać prawdziwych motywów, lojalności lub celów innych osób. Może też mieć inny cel, którego realizację utrudnia zmieniający się układ. Howard Tayler podkreśla, że dotychczasowa przewaga słabnie, gdy informacja zaczyna płynąć w drugą stronę. [1](#source-1)
+- **„If I have informational advantage at all of these stages, then I will win”.** U Taylera droga antagonisty może być prosta, dopóki konkretni ludzie na kolejnych etapach nie poznają jego sekretów. Po rozpisaniu tej strony historii autor przechodzi do bohaterów. Widzi już przeszkody, które muszą pokonać, choć dla nich problemem może być samo odkrycie, że te przeszkody istnieją. [1](#source-1)
 
-## Zdecyduj, co trzeba odkryć i komu to przekazać
+## Prosty plan, różne drogi do zwycięstwa
 
-- **Przy każdym rozstrzygającym etapie nazwij lukę w wiedzy.** Co rada uznaje za fakt? Kto zna treść umowy? Co stanie się możliwe, gdy wiedza dotrze dalej? To zastosowanie opisanej w *Writing Excuses* przewagi informacyjnej. [1](#source-1)
-- **Potraktuj wątek bohaterki jak skok po informację.** Musi najpierw zorientować się, że umowa istnieje, potem ją zdobyć i dostarczyć komuś, kto może jej użyć. Moment, w którym bohaterka poznaje prawdę, i moment, w którym radna zgłasza wniosek, mogą mieć osobne koszty i osobne stawki. [1](#source-1)
+- **Zaplanuj wątek antagonisty jak wątek protagonisty.** Kowal daje mu najprostsze rozwiązanie dostępne w danej sytuacji. Złożoność narasta, gdy coś idzie źle i postać musi temu zaradzić. Dunlap pokazuje też komiczny wyjątek. Doofenshmirtz w *Fineaszu i Ferbie* wybiera zawiłe środki tam, gdzie problem ma oczywiste rozwiązanie, a na tej przesadzie polega dowcip. [1](#source-1)
+- **Plan może wykorzystywać różne reakcje innych postaci.** Tayler przywołuje z cyklu Vorkosiganów Lois McMaster Bujold myśl „I don’t plan a path to victory. I plan so that all paths lead to victory.” W takim układzie różne decyzje przeciwników uruchamiają odmienne drogi do korzystnego wyniku. Wiarygodność spada, gdy sukces wymaga, by wszystkie zawiłe kroki zaszły dokładnie tak, jak przewidziano. [1](#source-1)
 
-## Pokaż, jak odkrycie zmienia sytuację
+## Stawka, perspektywa i skutki knowań
 
-- Wprowadź układ polityczny przez **bieżący problem postaci**. Jeśli bohaterka ryzykuje utratą prawa do prowadzenia przewozów, zasady udzielania zezwoleń od razu mają znaczenie. Czytelnik może uczyć się pozostałych reguł w miarę tego, jak wpływają na jej wybory. [1](#source-1)
-- Po ujawnieniu zapytaj, **co ktoś robi inaczej**. W przykładzie radna wykorzystuje zapis umowy, który pozwala jej wnieść na stół inne rozwiązanie. Namiestnik musi ponownie zabiegać o głosy, których wcześniej był pewny. Jeśli ujawnienie tylko tłumaczy dawne ruchy, sprawdź, czy jego funkcją ma być rozwiązanie zagadki, czy zmiana układu sił w bieżącej scenie. [1](#source-1)
-
-<u>Śledź drogę od sekretu przez decyzję do działania. Na ostatnim etapie widać, czy przewaga przeszła w inne ręce.</u>
+- **Odsłaniaj układ przez to, co staje się ważne dla postaci.** Czytelnik potrzebuje powodu, by przejąć się zdobywaną informacją. Reguły sukcesji w firmie nabierają znaczenia, gdy pomagają zrozumieć, kto miałby motyw zaatakowania jej szefa. Rozmówcy porównują to do oglądania ruchu z perspektywy jednej figury szachowej. Bohater może pytać o przyczynę lub sens zdarzeń albo znać odpowiedź i szukać drogi wyjścia. [1](#source-1)
+- **Knowania prowadzą do działań, a działania wywołują komplikacje.** Dunlap podkreśla, że przesunięcie sił musi następować w historii. Rozmowy o planach służą intrydze, kiedy ich skutki widać w kolejnych zdarzeniach. [1](#source-1)
 
 ## Powiązane artykuły
 
