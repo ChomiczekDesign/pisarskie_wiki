@@ -7,6 +7,13 @@ description: "Jak budować ukryte znaczenie, samooszukiwanie i wiarygodne nieroz
 
 Ukryte znaczenie potrzebuje czytelnych sygnałów. Można zdecydować, co bohater przemilcza, czego sam nie rozumie i kiedy odbiorca ma to rozpoznać. Poniżej znajdują się rodzaje subtekstu, narzędzia projektowania sceny i sposoby sprawdzania, czy różnica między wiedzą czytelnika a postacią pozostaje wiarygodna.
 
+## Jak kontekst zmienia znaczenie tych samych słów
+
+**Subtekst to sens wywnioskowany z zestawienia słów z kontekstem.** Rodzinna rozmowa przytoczona przez Mary Robinette Kowal pokazuje, ile mieści się w prostej informacji o jabłkach w kuchni. Córka rozpoznaje prośbę o ciasto i proponuje upiec je na jutro. Mąż, który nie zna rodzinnego skrótu, słyszy informację o owocach. Ta sama kwestia może więc podać fakt, przekazać prośbę i pokazać, jak rozmówcy starają się sobie nie narzucać. [7](#source-7)
+
+- **Wybierz szczegół, który uruchamia potrzebne skojarzenie.** Torba jabłek na blacie może sugerować zapas do pieczenia. Jabłka ułożone w koszyku mogą sugerować poczęstunek. Znaczenie zależy od obyczaju i relacji postaci. Jeśli czytelnik ma rozpoznać prośbę, dostarcz mu podstawy, np. przez ustalony wcześniej zwyczaj albo krótką interpretację postaci punktu widzenia. [7](#source-7)
+- **Uczucie może zmieniać całą wymianę.** Rozdrażnienie wpływa na sposób proszenia o sól, nawet gdy pod wypowiedzią nie kryje się żadne inne zdanie. Ustal, czy czytelnik ma odczytać prośbę, emocję, czy obie rzeczy. O sile fizycznej reakcji i jej roli przy kwestii mówi też artykuł [[Dopowiedzenia narratora i oznaczanie mówcy]]. [7](#source-7)
+
 ## Rodzaje subtekstu i rozbieżności
 
 - **Subtekst to znaczenie odczytywane między wierszami.** Nie ogranicza się do tego, co postać świadomie przemilcza. Zaprasza czytelnika do wnioskowania o relacjach, emocjach i zapowiedziach, dzięki czemu późniejsze odkrycia mają większą siłę. [1](#source-1)
@@ -182,3 +189,4 @@ To łączy subtekst z [[Ciekawość, pytania i ujawnienia|projektowaniem ujawnie
 4. <span id="source-4"></span>[How to Write What’s Not Written (Subtext) – September C. Fawkes](https://www.septembercfawkes.com/2015/03/how-to-write-whats-not-written-subtext.html)
 5. <span id="source-5"></span>[SHOW, DON'T TELL (is a lie) | On Writing – Hello Future Me](https://www.youtube.com/watch?v=UUjUs5hAMHQ)
 6. <span id="source-6"></span>[How to Craft Engaging Dialogue Exchanges – Peter Gelfan](https://writershelpingwriters.net/2019/08/how-to-craft-engaging-dialogue-exchanges/)
+7. <span id="source-7"></span>[17.34: Developing Subtext – Writing Excuses](https://writingexcuses.com/17-34-developing-subtext/)

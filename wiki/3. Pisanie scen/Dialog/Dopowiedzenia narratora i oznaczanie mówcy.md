@@ -21,6 +21,8 @@ Zapis wtrącenia wewnątrz wypowiedzi: [[Wtrącenie narratora a granice zdania|k
 
 - **Preferencja Darwin nie jest regułą tej biblioteki.** Autorka woli nieraz działanie przed kwestią od „jęknął”, ale sama nie narzuca tego innym. **Uwaga użytkownika:** nie przyjmujemy tej preferencji jako kierunku redakcji jego prozy. W polskim dopowiedzenie z gestem może wystąpić po kwestii, bez jawnego „on/ona”, np. „Uśmiechnął się miło”. Dobieraj pozycję gestu, czasownik i długość dopowiedzenia do sensu oraz rytmu konkretnej polskiej frazy; nie stosuj automatycznej zamiany. Różnicę między gestem a oznaczeniem mowy oraz zasady zapisu omówiono w notatce źródłowej. [1](#source-1)
 
+- **Jedna czynność może wskazać mówcę i zmienić odczytanie jego słów.** Jeśli po zapewnieniu „Oczywiście, że możesz jechać” Lena chowa kluczyki do kieszeni, czytelnik może przypisać jej kwestię i odczytać sprzeciw. Warunkiem jest jasne powiązanie czynności z mówcą. Jeżeli ruch należy do rozmówcy, neutralne oznaczenie może być czytelniejsze. Wybieraj gesty, które coś zmieniają, bo zapis każdej miny i ruchu spowalnia wymianę. [3](#source-3)
+
 ### Ile dopowiedzeń potrzebuje dialog
 
 - **Dobieraj obudowę dialogu do tego, co czytelnik już wie.** Wyrwana z kontekstu wymiana „Co słychać? – Jak zwykle” nie musi ujawniać konfliktu ani celu spotkania; samo usunięcie narracji nie daje subtekstu. Dodaj potrzebne osadzenie sytuacji, myśl lub czynność, jeśli bez nich emocjonalny sens pozostaje nieczytelny. Uwzględnij informacje dostępne z wcześniejszej sceny. [2](#source-2)
@@ -39,3 +41,4 @@ Zapis wtrącenia wewnątrz wypowiedzi: [[Wtrącenie narratora a granice zdania|k
 
 1. <span id="source-1"></span>[Talking Speech Tags – Emma Darwin, z uwagą użytkownika i polskim uzupełnieniem](https://emmadarwin.substack.com/p/talking-speech-tags)
 2. <span id="source-2"></span>[Dialogue Writing: Pare Down the Scaffolding – Mary Kole](https://kidlit.com/dialogue-writing/)
+3. <span id="source-3"></span>[17.34: Developing Subtext – Writing Excuses](https://writingexcuses.com/17-34-developing-subtext/)
