@@ -35,6 +35,8 @@ Jeśli konflikt zależy od tego, czyje poparcie jest rozstrzygające i jak łatw
 
 Gdy decyzja zależy od informacji o poddanych lub zasobach, zobacz [[Czytelność administracyjna i władza|czytelność administracyjną]].
 
+Jeśli jedna strona może zmienić układ sił przez zdobycie lub ujawnienie wiedzy, zobacz [[Intryga polityczna i przewaga informacyjna|intrygę opartą na przepływie informacji]].
+
 ## Powiązane artykuły
 
 - [[Bogowie, religia i relacje]]

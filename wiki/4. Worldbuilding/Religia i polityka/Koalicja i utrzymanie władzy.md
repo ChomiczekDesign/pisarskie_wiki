@@ -26,6 +26,8 @@ Przykład zastosowania. Ród strażników domaga się wyłączności na pobór o
 
 Władca może zebrać wystarczające poparcie, a nadal zależeć od tego, co podwładni mówią mu o kraju. Tę zależność rozwija [[Czytelność administracyjna i władza|czytelność administracyjna]].
 
+Gdy ujawnienie sekretu może zmienić głos rozstrzygającego stronnika, zobacz [[Intryga polityczna i przewaga informacyjna|budowanie intrygi wokół przewagi informacyjnej]].
+
 ## Źródła
 
 1. <span id="source-1"></span>[Keeping Power – Oren Litwin](https://orenlitwin.com/2018/04/20/keeping-power/)
